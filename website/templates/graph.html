@@ -1,0 +1,10 @@
+{% extends "base.html" %} {% block title %}Graphs{% endblock %} {% block content
+    %}
+    <h1>COVID-19 Data Analysis</h1>
+    {% for plot in plots %}
+        <div class="plot">
+            <img src="data:image/png;base64,{{ plot }}" alt="Plot">
+        </div>
+    {% endfor %}
+    {% endblock %}
+    

@@ -1,0 +1,9 @@
+{% extends "base.html" %} {% block title %}Graphs{% endblock %} {% block content
+    %}
+    <h1>COVID-19 Data Tables</h1>
+    <div class="table-container">
+        {{ table_html | safe }}
+    </div>
+   
+    {% endblock %}
+    

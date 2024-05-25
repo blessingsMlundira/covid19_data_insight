@@ -1,0 +1,1001 @@
+PatientID,Age,Gender,Symptoms,TestResult,Hospitalized,Recovered,DateTested
+4ed8c3e8-7f34-4035-bfd8-722ada31a4f1,37,Other,"Loss of smell, Cough",Positive,True,True,2020-03-11
+7c955579-cffe-40b1-bbd7-2e09e64a6738,59,Other,"Shortness of breath, Loss of smell",Positive,False,False,2022-12-11
+bf147208-a9b8-44d1-a543-02d27e51bef1,74,Male,"Fever, Shortness of breath, Fatigue, Cough",Negative,True,False,2023-06-18
+85e8b0f8-b7f9-4fe4-a872-d63b976293ab,96,Male,Fatigue,Positive,False,True,2021-05-22
+4de243af-3a38-4bb7-a5e6-f08068716e87,14,Female,Fever,Positive,False,False,2020-08-27
+2b708c6c-e4e1-47de-bf3a-f490059c568f,13,Female,"Loss of smell, Fatigue",Negative,True,True,2023-11-25
+11e00db6-c2d4-417f-8d92-dc8e1a4d7b12,35,Other,"Fatigue, Cough",Negative,False,True,2023-05-07
+3d256bb7-4a41-4490-80e8-d2f166c73276,58,Other,"Loss of taste, Loss of smell",Positive,True,True,2021-11-16
+c50d539d-7a16-4c58-802c-e1ca937a180b,13,Female,Fatigue,Positive,False,True,2023-05-09
+edc7d2ba-9e6c-4278-a762-bda483fae98c,53,Male,Fatigue,Negative,False,False,2022-01-21
+fda3bba2-7731-4b79-80e4-18f7b1c2a0a4,9,Male,"Loss of taste, Fever, Loss of smell",Negative,False,False,2023-09-27
+bf8edc46-822d-4763-a5c3-98541cabbffd,68,Other,"Cough, Fever",Positive,False,False,2022-01-31
+b7f9f619-2fc5-4c2b-9289-abdc0c92d96e,12,Other,"Sore throat, Shortness of breath, Fever",Positive,True,False,2022-03-01
+3665f6bd-db43-4576-8326-0a668e833a8b,22,Male,"Shortness of breath, Cough, Loss of smell",Negative,False,True,2023-07-19
+8f0488bb-e4b0-4438-a8ba-caba5cc7dc96,87,Female,Loss of smell,Positive,True,False,2021-09-05
+b90b0d4f-acf0-4b18-8413-9af4340c1305,54,Other,"Fever, Fatigue, Loss of taste",Positive,False,True,2021-10-29
+9748b4d7-7d39-4cb6-8af1-13bd431f42b7,10,Female,"Fatigue, Shortness of breath, Loss of smell",Negative,True,False,2021-02-06
+e823d7aa-aa92-4923-ad19-f0baaa775aa2,96,Other,Shortness of breath,Positive,True,False,2020-04-17
+aeebb0f3-9f71-4abd-96a0-42eb21120fc1,54,Female,Sore throat,Positive,False,True,2022-12-07
+d373e813-e883-4b31-a6ce-ebcac2357f03,55,Other,"Loss of taste, Shortness of breath, Fatigue",Positive,False,True,2023-10-05
+83be2de1-57fc-46cd-92f5-bf22b74ddae5,84,Female,"Fatigue, Fever",Positive,True,False,2020-10-09
+c02fe184-dc90-467a-811f-f7e8b4a49803,41,Female,"Fatigue, Cough",Negative,False,False,2022-02-10
+ea1d9a2d-f2aa-4a8e-82f2-bc806ce8cfa7,9,Other,"Cough, Shortness of breath, Fatigue, Fever",Positive,False,False,2021-05-21
+1ae99f8d-a2b0-4f21-bbb7-1f053920f577,45,Other,"Fever, Loss of smell",Positive,False,False,2022-06-11
+4346c643-71fe-4c3f-83aa-e1971a336ed8,31,Female,"Loss of taste, Shortness of breath, Loss of smell, Fever",Negative,True,True,2023-09-19
+3bb2e0ae-492b-40d7-ac12-4949a8c51ab1,28,Male,"Loss of taste, Fever, Shortness of breath",Negative,False,True,2020-08-30
+bc9958d7-a03e-462c-aef9-9c4efc3beb45,2,Other,"Shortness of breath, Loss of taste, Cough",Negative,False,False,2021-01-20
+9c083eed-c85b-4a14-a633-52248c09143e,75,Other,"Loss of taste, Shortness of breath, Loss of smell, Fever",Positive,False,False,2023-11-22
+17b1c937-3556-4220-8d95-6acea31d5c96,40,Female,"Cough, Sore throat",Positive,True,True,2020-04-26
+5489d0cc-63da-4fc6-abb6-042748644884,2,Male,"Loss of taste, Loss of smell",Negative,False,True,2021-01-30
+16554e53-1bdb-473a-b147-30910f2c8c7b,99,Other,"Fatigue, Loss of taste",Negative,False,False,2022-07-20
+f1a41483-6d54-41ee-bd44-24190a50e013,58,Other,"Sore throat, Cough, Loss of taste",Negative,True,False,2021-12-04
+cab09fcd-c120-493a-a57e-21bec4e0900c,75,Other,"Fever, Sore throat",Negative,True,True,2022-11-24
+e3e56815-078b-416b-a512-23f362cfc1a6,60,Male,"Cough, Loss of taste, Loss of smell, Shortness of breath",Negative,False,True,2021-03-09
+a70f9dc8-f9a9-4bb4-9350-9a31b0da41a6,90,Other,"Fever, Cough, Fatigue",Negative,False,True,2023-10-12
+7a896a27-1580-422f-99f3-42f86de27248,72,Other,"Fever, Cough, Loss of taste, Loss of smell",Positive,False,False,2023-11-21
+862297ca-1b52-4674-884b-619d0044c4dd,21,Male,"Shortness of breath, Loss of taste, Cough",Positive,False,True,2021-09-29
+6b47d8fd-c20c-424b-a288-2da29b1cb14f,24,Other,Sore throat,Positive,False,True,2020-03-18
+b5d004c4-aae7-4e30-bf2c-6431816dd8a4,15,Male,"Fever, Sore throat, Loss of smell",Negative,True,False,2020-05-08
+9bb49249-3201-40d2-91dd-3d2ff19153c1,63,Male,"Sore throat, Cough",Negative,False,False,2021-04-26
+77ea596d-4c46-4101-806c-5c41253a4a24,9,Other,Cough,Positive,False,False,2022-12-16
+85f68eb8-1d0a-4f6e-849f-0b56879d9272,54,Male,"Cough, Fever, Loss of smell, Fatigue",Negative,False,True,2021-06-20
+92819a8d-c2bf-455b-afb5-ede27123d59a,64,Female,"Shortness of breath, Fever, Loss of taste",Negative,True,False,2023-03-15
+833bd5af-eb2d-41d3-8513-6cf318b78e0c,94,Female,Loss of smell,Positive,False,False,2023-10-12
+e53a2b82-0085-4e5e-919d-29b4e494a43d,99,Female,"Loss of taste, Loss of smell",Negative,True,False,2021-07-27
+d5c42fea-ebf5-4f0b-a394-c76d4e182d31,13,Male,"Sore throat, Fatigue, Shortness of breath",Positive,False,False,2020-08-29
+9ccd9303-9415-4742-a2e2-6096270d0927,17,Other,"Loss of smell, Fever, Loss of taste, Sore throat",Positive,False,False,2022-03-05
+9908feca-1341-4925-af2f-a6d94e5b6b20,2,Other,Fatigue,Positive,True,True,2021-05-12
+79ee5961-8a2d-4e74-8272-03a34406cc75,83,Male,Fatigue,Positive,False,False,2021-01-27
+78a84c20-e8e0-4b76-afc6-c81ae0d380ee,56,Female,Loss of smell,Positive,True,True,2022-06-12
+0a197ba0-a2a8-4a17-ae9d-e9886e7d5b8a,33,Male,"Loss of smell, Fatigue, Cough",Positive,True,True,2023-03-22
+ca0abe77-e215-4460-aa22-7a2eb66f2667,72,Male,"Loss of smell, Fever, Sore throat",Positive,True,False,2022-10-26
+c7899dec-677a-4d29-a75d-c023c237081a,64,Male,Shortness of breath,Positive,False,False,2023-03-09
+af42d757-9b2f-4d87-b013-9e6a19169a6b,93,Female,"Shortness of breath, Cough, Fatigue",Positive,False,False,2021-04-29
+72d8f09c-c07f-441e-bbbb-2ef5ef091f08,42,Other,"Sore throat, Loss of smell",Negative,False,True,2021-12-29
+5acf1aad-38b1-432d-94d1-c024bffdf73e,91,Male,Fever,Positive,False,False,2022-06-21
+976c3863-fc96-4e7a-b154-dd40e656eb30,80,Female,"Loss of taste, Sore throat, Fever",Negative,True,False,2022-05-27
+e2e228cb-643f-4cd2-881e-8edead7c1725,54,Other,"Loss of taste, Sore throat",Positive,False,False,2021-04-26
+f302041e-aa7b-4b2e-b755-5ad592b3ee0c,11,Male,Loss of taste,Positive,True,False,2021-06-03
+01997737-4b8d-4498-a812-063370cfcb64,28,Male,"Shortness of breath, Fever, Loss of taste, Sore throat",Negative,True,False,2021-03-15
+2c369d35-2d30-4838-9aad-a57c9bdf1fdc,67,Male,"Fatigue, Shortness of breath",Negative,False,True,2022-01-31
+0e2a9932-feaf-451b-9b15-60e9555d9d90,33,Male,"Fever, Sore throat",Positive,True,True,2022-05-26
+cc0988d4-af46-407b-b245-ce076fb5307f,35,Other,"Loss of taste, Fever",Positive,True,True,2022-01-08
+a415966d-ed8b-44bd-abf0-b69fdfdf5b70,17,Male,"Loss of taste, Cough, Fever, Loss of smell",Negative,False,False,2022-04-19
+53a45f58-e694-4514-a002-96f43242c520,82,Other,Shortness of breath,Positive,True,True,2023-10-15
+6c4a4176-6f44-49f3-8103-7849d66dd7a3,30,Female,"Shortness of breath, Fever, Loss of taste, Cough",Positive,True,False,2023-05-29
+14df88ac-4cb6-410b-9e16-c3ee291e36a9,58,Male,"Sore throat, Loss of taste",Positive,True,True,2022-02-11
+df4aa0b1-82e4-4c5e-97d9-8d2cda410ae8,8,Other,"Loss of taste, Fatigue, Shortness of breath",Positive,False,False,2021-04-18
+34a0dc72-3091-4a55-8ee5-ccee8ed7e37c,19,Other,"Fatigue, Loss of smell",Positive,True,False,2023-01-31
+25975b79-b0bc-4a92-9b62-961395e311f9,53,Other,"Loss of taste, Loss of smell",Positive,False,True,2022-11-26
+2ccc4942-c631-4628-86ae-fb14f180b8b2,40,Other,"Shortness of breath, Fever",Negative,False,False,2020-12-16
+af58cc08-eef4-4710-a521-7b8ec6467879,48,Female,Shortness of breath,Positive,True,False,2022-08-11
+26d99196-002f-4494-92ea-70cc2c338e3b,5,Other,"Cough, Loss of taste",Negative,False,False,2021-04-09
+ce4c9b33-4686-49ea-a72b-c8cdefd5cf29,34,Male,"Loss of smell, Loss of taste, Fatigue",Positive,True,False,2022-09-28
+300f4373-b619-461d-876f-fce42fd3e064,7,Male,Loss of smell,Positive,False,True,2022-09-02
+a6b3d0a1-aa4b-4c8f-91c2-533f843d7f87,81,Female,Fatigue,Positive,False,False,2023-05-25
+ba6b84ff-1576-4d7f-a473-1d488ff531c0,95,Male,"Sore throat, Loss of smell",Negative,False,False,2023-06-01
+ef429d02-bf0c-417e-8bf1-2dd7e0f29610,63,Female,"Fatigue, Cough",Negative,True,True,2022-03-05
+665ad9a0-b0eb-4408-8a25-ac4aab95d914,66,Male,"Loss of taste, Sore throat, Fatigue, Loss of smell",Negative,False,False,2020-02-22
+3c20e5a1-d746-4020-9cb0-3c6b708f6edf,49,Male,"Fatigue, Loss of smell",Positive,False,True,2023-03-04
+1277fbb0-f368-4f4a-86fc-9b3e183b2ad8,57,Male,"Loss of smell, Fever, Sore throat",Negative,False,False,2020-07-11
+bcbbeef7-d02a-41a2-8f10-92b384a64806,13,Female,"Shortness of breath, Loss of smell, Sore throat",Positive,True,False,2020-10-17
+a09a52f9-ef44-4e93-8953-b98c3dd75fe0,14,Other,Sore throat,Negative,False,True,2020-07-17
+5b67d8b7-b2c9-4719-b577-b57b1d4fa345,86,Other,"Fever, Loss of taste",Positive,True,True,2021-01-12
+3082ac07-4721-4fdc-b07b-f718c20d0c03,59,Female,"Shortness of breath, Loss of taste, Loss of smell",Negative,True,False,2023-01-07
+8bf4a70d-349c-4cda-afc1-0ddc904b4a16,87,Female,"Loss of taste, Fever",Negative,False,True,2022-07-24
+afebcd8c-eb34-405b-a071-1576310f173b,44,Other,"Cough, Sore throat",Positive,False,False,2022-07-05
+bbcd1afc-68f7-4c3e-86d7-db101ee52a58,26,Male,"Sore throat, Fatigue",Positive,False,True,2021-02-24
+584313c1-a509-4b74-a795-481f07f366b9,33,Other,Sore throat,Negative,True,True,2021-03-15
+d683f3d5-5fde-4535-a196-9691b4428898,95,Female,"Shortness of breath, Loss of taste, Loss of smell",Positive,True,False,2020-09-17
+bec8c45e-3bd1-43da-9aeb-240ac85211eb,14,Female,"Cough, Loss of taste, Loss of smell",Negative,False,False,2021-08-27
+95e10450-25ca-4aa6-9c7e-33fa2a636a0c,63,Male,"Shortness of breath, Sore throat",Positive,False,True,2021-10-29
+1e2fda11-2b09-4bce-9496-8221de5daa44,21,Other,Fever,Negative,True,True,2022-04-03
+fa177fdb-4651-48f2-b956-23bcc4e7e03c,61,Male,"Fatigue, Sore throat, Shortness of breath, Loss of taste",Negative,False,False,2023-03-21
+870bee3a-0fdd-4d83-b964-beb3d34365fe,52,Male,"Fatigue, Cough, Loss of smell",Negative,False,True,2022-10-29
+b3e8c3c8-d2e5-4a38-be65-544b2c298bec,84,Female,"Cough, Fatigue, Sore throat",Positive,False,False,2020-03-04
+8ed91c10-e2e1-408c-90dd-8bf8318c0ccd,31,Male,"Fatigue, Cough, Loss of taste",Negative,False,False,2023-06-17
+0008416e-38e5-4c6b-b350-91e59cdf2d94,65,Other,"Fatigue, Cough, Loss of smell",Negative,False,False,2021-01-19
+99589beb-473c-49b4-af6a-f8c61b3fcd14,89,Female,"Loss of smell, Shortness of breath, Sore throat, Fever",Negative,True,False,2023-05-01
+5da542b8-da7c-4bfa-ad59-54dbc98a7d81,84,Other,"Fever, Shortness of breath",Positive,False,True,2022-02-10
+0fa6c5ed-6057-4e0d-b2ea-3f2b79bb266a,3,Female,Shortness of breath,Positive,False,False,2022-05-19
+78be3be2-da86-4b31-936b-b35c5489e5fd,47,Other,"Fatigue, Loss of taste, Loss of smell, Cough",Negative,False,True,2023-01-07
+2fc13b43-bd9d-4957-a658-a0e7b4d6456b,83,Female,"Loss of smell, Cough",Negative,False,True,2020-03-18
+0a662dde-6b65-4167-9610-f2cc456acb7a,22,Male,"Sore throat, Loss of smell, Cough",Negative,True,True,2021-08-26
+16345950-4927-4344-8801-5db586f90aaa,10,Male,"Fatigue, Sore throat, Cough, Shortness of breath",Positive,False,True,2020-07-28
+f4aef33e-e530-4030-ac93-b90c2861153a,1,Male,"Cough, Sore throat, Fatigue",Positive,True,False,2021-06-01
+f7987b96-4d2f-42e7-a008-5b41b663631b,6,Female,"Fever, Shortness of breath",Negative,True,True,2020-09-25
+ccbdaea7-7c8d-460d-82cb-03a692c79be9,51,Male,"Fatigue, Cough, Loss of smell, Shortness of breath",Positive,False,False,2022-01-07
+aee007db-c806-4939-8b30-cef80d6eed2f,17,Male,"Fever, Loss of smell, Loss of taste, Shortness of breath",Positive,True,True,2022-12-21
+9b6cf264-181d-47bf-ad74-df374e4b24ab,58,Other,Sore throat,Negative,False,True,2022-12-10
+da4071f7-1910-431e-a1e4-4cd23b0b673f,11,Female,"Loss of smell, Fatigue",Positive,True,True,2023-10-12
+7f5e73ec-d7c3-4407-862a-2bef24452f53,90,Male,"Fatigue, Shortness of breath",Positive,False,False,2021-04-08
+9f165861-74f6-45f7-b5a8-e936a2fc4555,73,Female,"Loss of taste, Sore throat, Cough",Positive,False,False,2023-11-05
+7979644f-f988-4298-bbfb-fce11419253e,17,Male,"Loss of smell, Fever, Sore throat, Cough",Positive,True,True,2022-02-26
+dfa5d20d-ddfe-4e8f-9ac5-276afbd09565,62,Female,"Loss of taste, Fatigue, Sore throat",Positive,True,False,2020-03-02
+03855f76-deda-4074-be29-8ed253dbf832,85,Other,"Loss of taste, Loss of smell, Shortness of breath, Fever",Negative,True,False,2022-05-21
+f8893265-36bc-4823-9c53-34c760b009a9,25,Other,"Shortness of breath, Cough, Loss of taste, Sore throat",Positive,True,False,2022-02-23
+ad171c62-bff4-4762-a4c5-667afa3b8e40,64,Female,Shortness of breath,Positive,True,False,2022-09-08
+377d85e7-a4ab-489f-b74d-d22f61186f10,67,Male,"Sore throat, Loss of smell",Negative,False,False,2022-09-16
+4261b424-60d9-47bc-ac6a-c12d8cc408d0,19,Female,"Cough, Fatigue, Fever",Positive,False,True,2023-05-17
+2b7264af-96e9-499a-9849-6a387843c692,97,Male,"Shortness of breath, Fever, Sore throat",Negative,True,False,2022-06-25
+95dd9965-9aae-4c35-9ecc-a38ebff63162,51,Other,"Shortness of breath, Loss of smell",Negative,False,True,2020-02-10
+7553e8d3-dc5f-4866-8eff-5836b62c0c77,42,Other,"Loss of smell, Cough, Fatigue",Positive,False,True,2023-01-10
+9e2449a8-0c0d-45d8-b2a2-da8857533193,34,Male,"Loss of taste, Shortness of breath",Positive,True,True,2021-07-04
+e9714beb-fa5d-4baa-9b89-1b1080883bb3,18,Female,"Sore throat, Loss of smell, Fatigue",Negative,False,False,2020-02-27
+f3bd9338-5eeb-409c-b8e5-94b54f8f10a2,4,Female,"Fatigue, Fever, Shortness of breath",Positive,True,True,2022-03-11
+774b8488-ac40-468e-b9cd-21839b45f889,100,Male,"Fever, Sore throat",Positive,True,True,2021-03-12
+90b24f6b-0d40-49af-8663-ca52af369cad,16,Male,Shortness of breath,Negative,True,True,2020-05-11
+e32146b7-75e8-4eea-9052-48e774620c6f,66,Male,"Loss of smell, Sore throat",Negative,False,False,2022-03-16
+d17ee104-3a58-4462-8886-ad97d47bbd6a,56,Other,"Loss of smell, Shortness of breath, Sore throat, Loss of taste",Negative,True,False,2022-01-05
+d9b3c371-bb24-4b5b-a497-5ad9d8eaa712,86,Male,"Fatigue, Sore throat",Positive,False,False,2023-04-17
+208ed05e-228c-4566-8838-65a65aa96345,36,Female,"Cough, Loss of taste",Negative,True,True,2020-11-18
+fd2ea399-6d2b-43e9-b81c-5ce88615455a,23,Male,"Fatigue, Shortness of breath",Positive,False,True,2020-07-21
+76eda5be-02fb-4bfc-b759-b18805566ed1,9,Other,"Loss of smell, Fatigue, Shortness of breath, Sore throat",Negative,False,True,2020-02-08
+dfe220a8-e461-46d5-aa3d-35b8b8444a40,94,Other,"Sore throat, Cough",Negative,True,False,2023-07-29
+6d6356f4-b527-4fcc-9554-f3ec98eedff4,59,Female,"Fatigue, Shortness of breath",Negative,True,True,2021-08-29
+ce9fabe1-48bb-462f-865f-85c010e5ef05,18,Male,"Loss of taste, Fatigue, Sore throat",Positive,False,True,2022-07-10
+9ce4cc92-7d0b-420e-ba68-c71b001150b9,89,Male,Loss of taste,Positive,False,True,2022-04-07
+4420bccd-be41-47f1-aada-150d6bd05a11,50,Female,"Shortness of breath, Fatigue",Positive,True,False,2020-04-27
+a296c36f-cb23-4815-b2d7-efdc2f0fb176,14,Other,"Fever, Loss of smell, Sore throat",Positive,True,True,2020-12-14
+9880be42-e097-41fd-b7aa-c0fef941ff77,14,Female,"Cough, Fever",Positive,True,True,2020-06-07
+d0d2d35d-26a8-4a1b-b704-11cb6c01a15d,39,Male,"Cough, Loss of taste, Fatigue, Sore throat",Negative,True,False,2022-05-03
+f48a61c5-d004-4e97-8755-fb6e8d7632a4,94,Male,Fever,Positive,True,True,2022-01-08
+02a2ec6f-ace2-4ef7-bdb2-a3c04a2ee767,32,Male,Sore throat,Negative,False,False,2021-07-22
+7635f0f9-fe26-4d70-974d-22297af48fde,7,Male,"Sore throat, Fever, Loss of taste",Negative,False,True,2022-08-15
+a779538e-d4aa-4588-b9bf-ad86f6ee8672,56,Other,"Loss of taste, Fatigue, Fever, Cough",Negative,False,True,2021-02-09
+822cdae4-799c-4ace-bc7d-e84ed5d27aa3,89,Other,"Loss of taste, Cough, Fever",Negative,True,True,2020-03-07
+c5fb0ff9-22c6-4710-9406-b1e14dfee6f7,97,Female,"Cough, Loss of taste",Positive,True,True,2020-09-05
+a6908803-2038-48e6-95af-5772065a454f,12,Female,Sore throat,Negative,True,True,2021-08-25
+4cc86481-d64d-42a9-9e5a-6522f40487e5,93,Female,"Cough, Sore throat",Negative,False,True,2022-03-04
+424488e5-023d-4ccd-b848-72ecc3548b4c,43,Male,"Fatigue, Cough",Negative,True,False,2021-04-15
+457f3845-743f-447b-93e4-1cb4fe6cb021,42,Other,Shortness of breath,Positive,False,True,2020-10-11
+fa0fbb8b-a05a-4e27-8bd7-ae834e315a87,56,Other,"Loss of smell, Loss of taste, Shortness of breath, Cough",Positive,True,True,2021-07-17
+de383a7a-1ae1-421f-9fa4-2f3ba513ceb9,5,Female,"Fatigue, Shortness of breath",Positive,False,False,2020-08-19
+db822431-d111-4ab1-81c2-e8c036c06e1c,69,Other,Cough,Positive,False,True,2021-07-25
+11386a9a-4cfa-463f-9264-68385c6b7b7c,46,Male,"Loss of smell, Sore throat",Negative,True,False,2022-08-13
+62ebf222-8b23-4fff-90d8-02af3e0ddea9,52,Male,"Shortness of breath, Loss of taste, Fatigue, Loss of smell",Negative,True,False,2021-07-29
+59904f49-546c-4678-87f6-528bafb4b502,9,Male,"Loss of taste, Loss of smell, Shortness of breath, Sore throat",Positive,False,False,2023-05-01
+6d9314c3-3698-4284-aa8a-78e412af9325,18,Other,"Cough, Loss of smell",Negative,False,False,2022-09-16
+52b1a548-0d65-4bab-9982-8094491529ae,40,Male,"Fever, Shortness of breath, Loss of taste",Negative,True,True,2021-04-26
+9088898b-cefd-441a-a7d2-b9df3775ea29,90,Male,"Cough, Loss of taste, Fever, Fatigue",Positive,True,True,2023-06-10
+5975f7ff-0798-4263-92ab-9e1d79f4b4ae,78,Male,"Loss of smell, Cough, Sore throat",Positive,True,False,2020-08-09
+65eb93da-eeb2-4597-a602-0899e498b47b,38,Other,"Sore throat, Loss of smell",Negative,True,True,2022-12-31
+dcdd8345-57f8-4938-9080-3bc543b3cf43,95,Other,"Cough, Fever, Sore throat, Fatigue",Negative,False,True,2022-08-02
+6365ce94-90c1-481e-8913-97448fc53845,75,Female,"Loss of taste, Loss of smell, Shortness of breath",Negative,True,True,2023-09-28
+23aa99f0-2dd1-4332-8af7-befd3dbb612d,63,Female,Shortness of breath,Positive,True,True,2020-10-13
+9c0e521c-02fa-43ad-a7b0-264eb2ea387e,32,Other,Fatigue,Positive,True,False,2023-02-04
+02618e36-2a1e-4d72-90a9-07cd713b3c3e,69,Female,"Fever, Fatigue, Loss of taste",Negative,True,True,2022-09-27
+816fa9e4-5bf1-4ef4-b24d-3a09b19e7174,90,Male,"Loss of smell, Shortness of breath, Loss of taste",Negative,False,False,2023-08-01
+08a18e03-ec17-4033-a1b6-70f4b7472853,98,Other,Sore throat,Negative,True,False,2021-04-12
+5b0a6699-210a-4e27-8278-faa77fb445f1,100,Other,"Loss of smell, Fever, Sore throat",Positive,False,False,2022-02-10
+2fc0520c-562e-45e0-b928-c3e1ef52bbf7,36,Male,Fever,Positive,False,True,2023-10-12
+ff4ebb89-7810-4851-ade5-340e814949ca,14,Male,Shortness of breath,Positive,False,False,2021-12-18
+1e1bf5ca-a75a-4bc0-872c-c444a2d09b99,19,Other,"Loss of taste, Fatigue, Loss of smell, Fever",Positive,True,False,2022-09-12
+a1619949-784f-4199-bfe9-54dc834ac1b1,83,Other,Cough,Negative,False,False,2022-08-25
+c4887991-0417-469a-82c9-6886e2869a21,8,Male,Fever,Negative,True,True,2022-11-09
+ca71f80b-9eea-4148-8cd4-ecef8c5f512f,31,Male,"Fatigue, Cough, Loss of taste",Positive,True,False,2021-08-07
+6008bcda-6bb4-4d99-9dc4-d67e361ff3ba,67,Other,"Shortness of breath, Loss of taste",Negative,True,False,2023-04-06
+10db3595-821c-4109-a55a-11dae712e6e7,9,Male,"Cough, Loss of smell, Sore throat",Negative,False,False,2023-02-14
+734a4cf6-b7cf-4c66-ba2e-5b7c3f0359f4,15,Female,"Sore throat, Fatigue, Cough, Loss of taste",Negative,False,True,2020-07-17
+9bda8527-2a4b-4b7a-99cd-c5c1764d1304,64,Male,"Cough, Shortness of breath, Fatigue, Loss of smell",Positive,True,True,2021-10-16
+96e52954-dbc5-45ae-915d-cd64009ef0fa,9,Female,"Shortness of breath, Sore throat, Cough",Positive,True,True,2021-12-04
+b44425d7-49cd-4a1c-8826-02fee9853f15,81,Other,"Fatigue, Loss of taste, Loss of smell, Cough",Positive,True,False,2021-10-22
+172be98b-7db3-4648-8b9f-9bf8e87ef83b,80,Female,Shortness of breath,Negative,True,False,2022-08-12
+c1670920-2fab-4749-93e3-b9b47b4cc445,43,Male,"Loss of taste, Cough, Fever",Negative,False,True,2023-05-08
+e5fb9ad2-1ebb-47ef-861e-40c67a735d8a,75,Other,"Shortness of breath, Loss of smell, Fatigue, Sore throat",Positive,False,True,2021-01-01
+7f042b23-58a8-425b-962c-0699a400ed9f,12,Male,"Shortness of breath, Fever, Loss of taste, Cough",Positive,False,True,2023-09-28
+3a63b3a4-f61b-446e-90d0-183b293f1417,21,Female,"Fever, Loss of smell",Negative,False,False,2023-10-15
+eb42028c-26e4-4f34-9ded-17ce122d5f13,68,Female,"Fever, Shortness of breath, Cough",Positive,False,False,2023-07-12
+da02de85-d4f5-4899-bb66-8e7e2fe5bcc4,77,Female,"Loss of taste, Cough, Sore throat",Positive,True,False,2023-10-15
+232b1403-5305-4348-adf5-b219f7fac792,48,Other,"Fever, Loss of taste",Positive,False,True,2023-07-12
+84c58b98-6e97-47f7-b34f-dc30d865926c,94,Female,"Shortness of breath, Sore throat, Loss of taste, Fatigue",Negative,True,True,2023-05-05
+93ec314a-e892-4c29-a02e-3adefe17f472,43,Other,"Fatigue, Shortness of breath, Fever",Positive,False,False,2021-07-26
+91f0957e-c712-44dd-930a-9ceed71bdb11,7,Male,"Loss of taste, Sore throat, Fatigue",Negative,False,True,2022-11-15
+c6bc5a91-11ad-4251-885f-9016c290a058,62,Other,"Cough, Loss of taste, Loss of smell",Positive,False,True,2020-11-26
+c042f390-6a74-4143-92b0-fb2dfb32c1db,91,Female,"Fatigue, Fever, Cough",Positive,True,True,2021-04-26
+c1826dcd-7309-45ca-9a2b-44169fbfe62b,4,Other,"Sore throat, Loss of taste",Negative,False,True,2021-11-06
+ff5615e1-7af0-407c-823e-490855734930,76,Male,"Shortness of breath, Loss of smell",Negative,True,True,2023-08-08
+479fec4e-15a9-4455-8af5-0bbfac28188e,47,Other,"Cough, Shortness of breath",Positive,False,True,2023-04-19
+23dd22de-fd28-4414-b623-c3db1ab4c244,60,Male,"Sore throat, Shortness of breath, Cough",Positive,False,True,2023-12-05
+7a084833-9719-442e-b1e7-c349d18db7af,60,Other,Shortness of breath,Positive,True,False,2020-11-27
+06ced641-59b9-4297-bc91-5aa6278529df,31,Male,Fatigue,Negative,True,True,2021-04-06
+d58f3e26-8aa4-4ba8-a14e-ad5b221da6f9,91,Female,Fever,Negative,True,True,2022-07-27
+2fdd188c-caa2-4483-8503-be53fd93bf75,49,Female,"Loss of taste, Fatigue, Shortness of breath, Cough",Negative,False,False,2020-05-28
+487a6b63-674f-4510-9830-ef5b0ae2e207,64,Male,"Shortness of breath, Fatigue, Loss of taste",Negative,False,False,2022-08-23
+c6370e23-8f9c-4bc5-93be-8069ec0b8d67,72,Female,"Sore throat, Shortness of breath",Negative,False,False,2022-06-08
+cd4ba57c-8c00-44e9-921c-67a32fe244d2,6,Other,"Fatigue, Sore throat, Fever, Cough",Positive,False,True,2022-06-25
+bd07ec39-c651-4793-8d93-6d5d392fbe2f,38,Other,"Shortness of breath, Sore throat",Negative,False,True,2021-12-02
+3dc6d4a4-164f-4e47-b3f8-df78c8d266ca,56,Male,"Cough, Loss of smell",Positive,True,False,2023-09-26
+3b709e8d-f675-4716-a6e9-1664b43769cc,47,Other,"Shortness of breath, Fever",Negative,True,True,2023-10-14
+f524a2c5-af26-48a8-b77e-4338b932671a,61,Other,"Loss of taste, Fever",Negative,True,True,2023-02-18
+404ec92e-e722-4896-bc6b-572f17098eb3,53,Female,"Cough, Shortness of breath, Fever",Positive,True,True,2020-11-16
+bdfdfce8-8527-4808-a6f3-3c9ba7eb5891,46,Other,"Fatigue, Loss of taste",Positive,True,False,2023-07-04
+e16f6be4-0946-4c30-83b9-627737cebc0f,38,Male,"Loss of smell, Shortness of breath",Negative,True,False,2023-07-19
+c12d39ae-b4e6-4dfb-b1dd-2bccabd35f4b,83,Other,Fatigue,Negative,False,True,2022-07-18
+81bf3a98-21c4-4d77-a1bd-95f9f7546448,100,Other,Fatigue,Positive,True,True,2021-03-22
+d39006b3-0606-4779-b9d8-323eed9109bb,55,Male,"Fever, Cough, Sore throat, Loss of taste",Negative,True,False,2021-01-11
+b058778c-830b-4c37-bd04-79bc124926af,45,Other,"Fever, Loss of taste",Negative,True,False,2022-12-27
+95841fbf-8c2e-4ac2-9f46-8448d8cc584f,71,Other,"Fever, Fatigue",Negative,False,True,2022-12-23
+d183365e-6854-4248-8a1f-6bdaba179424,3,Female,Sore throat,Negative,True,False,2022-06-02
+905017f5-eba6-424a-8023-bb9f711669da,99,Male,Fatigue,Positive,False,True,2021-05-13
+fecf7607-5edb-45c9-968c-55551f183e82,16,Other,"Cough, Shortness of breath, Loss of taste",Negative,True,False,2022-12-03
+c9c4a489-0c0b-4015-9853-a6c10b8b291e,30,Female,"Cough, Sore throat, Fatigue",Negative,True,True,2021-01-09
+d45f300a-0d5b-4538-81eb-ccdad69d1fa1,30,Other,"Loss of smell, Cough, Shortness of breath, Loss of taste",Positive,True,False,2020-09-28
+0f50118e-2145-4ad2-96ed-607f832b540f,46,Male,"Loss of smell, Fatigue",Positive,True,False,2022-03-07
+af4c8df1-8331-457d-8392-eef228ab895c,55,Male,"Fatigue, Loss of taste, Sore throat",Positive,True,False,2021-07-22
+d9aae5cb-15cb-4421-9f91-b349bba1dba7,56,Other,Sore throat,Negative,True,True,2023-05-30
+e721c3f9-fdeb-494e-9b5b-97a54e16ac16,82,Male,"Shortness of breath, Fatigue",Positive,False,True,2023-04-20
+22a6ae5f-ab8e-470f-94cc-5ad7021f0fde,86,Female,Fever,Negative,True,False,2020-02-21
+7428eaa6-eae5-47fa-9281-46107e0674fc,32,Male,"Loss of smell, Sore throat, Fever, Fatigue",Positive,True,True,2023-03-30
+00766e3a-c61d-4d3a-aa9f-ccf579e3b5e1,98,Male,Fever,Negative,False,False,2022-11-02
+b7612b06-0c9b-4ff1-a6c7-9875f6c124f1,57,Male,"Sore throat, Shortness of breath, Fatigue",Negative,True,True,2020-11-14
+6685358f-f699-4c2e-9046-0f1ffae22cef,43,Other,"Shortness of breath, Fatigue, Loss of taste, Cough",Positive,True,True,2020-08-22
+c4c96ab7-7f0c-42bd-a2d4-c910e3e9f53c,4,Male,"Fatigue, Cough, Sore throat, Shortness of breath",Positive,False,True,2022-10-28
+656f974f-6f4f-47d9-be1f-486afa0bfd65,83,Male,"Shortness of breath, Fever",Negative,False,True,2023-07-31
+a2e1dd67-be46-466f-a69c-13d8085956f9,92,Other,"Loss of smell, Cough",Negative,False,False,2022-02-12
+4fdd4037-ad45-48ea-b477-81409b522623,53,Other,"Fatigue, Loss of taste",Positive,True,True,2020-06-29
+f55fb5c9-681b-4d7b-8959-ec23e8af01ab,12,Male,"Loss of smell, Sore throat, Shortness of breath, Fever",Negative,False,False,2023-11-04
+c05837a0-7ac0-4fbb-a790-0dd3a5fda4e9,83,Other,Loss of smell,Positive,False,True,2022-09-11
+d54a4936-9604-43f0-b0e3-e9426c76c679,18,Female,"Fever, Shortness of breath, Sore throat",Negative,False,True,2022-06-01
+bcfa43aa-ff04-4f1a-bd83-39077659288a,29,Male,"Loss of taste, Fatigue, Loss of smell, Fever",Positive,False,True,2023-08-02
+71e55b9a-ad81-4ce1-9df8-5e63699df874,40,Female,"Sore throat, Loss of taste",Negative,True,False,2022-04-09
+c950387b-4a64-4ac7-bd5e-0fddae6cacef,27,Female,"Sore throat, Shortness of breath",Negative,False,False,2021-05-07
+4e47cf2b-feb3-4089-a313-477445dcc677,100,Other,"Shortness of breath, Fever",Negative,False,False,2021-06-24
+21946139-c679-4f43-a8f2-174fd9e11343,40,Male,"Loss of smell, Cough, Fatigue",Positive,True,True,2022-09-15
+94be0b64-2231-4be3-88d3-8d583db155a3,20,Female,"Loss of smell, Fever",Positive,False,False,2023-11-12
+7866713f-4ffa-4244-ab46-e86252a73156,79,Female,"Shortness of breath, Cough",Positive,False,False,2020-04-29
+d905081d-ac4c-4a07-bf6d-84b8f0fc7b20,89,Other,Loss of smell,Positive,True,True,2020-07-11
+bfc56dc4-2c1c-4be3-8c2a-0edef2ade6ca,46,Other,"Cough, Loss of smell, Sore throat",Positive,False,False,2022-08-28
+e1f4e2f4-5432-4592-bef1-ec82db2f7aaa,98,Male,"Cough, Shortness of breath, Sore throat, Loss of taste",Positive,True,False,2020-10-30
+b24a90d4-78fb-44c0-9efb-389d25e0f9a1,37,Female,"Shortness of breath, Fever, Fatigue, Loss of taste",Positive,True,False,2023-02-25
+cd1a30cf-b036-4c2a-b0f5-dd075d9c8946,34,Male,"Loss of smell, Cough, Fatigue",Negative,False,True,2020-02-03
+55325919-92ca-4428-882b-c8ce1b956743,58,Other,Loss of taste,Positive,True,True,2020-08-15
+8ba51ae1-789f-4a3c-9c90-16cc6c2a8607,8,Male,"Sore throat, Shortness of breath, Loss of taste, Fever",Negative,True,False,2023-05-03
+1f809e1c-9ff5-4e57-8220-b6b540a1b068,25,Male,"Fatigue, Sore throat",Negative,False,False,2022-05-29
+9175a8ff-8079-431f-a803-89848e6afc1e,41,Male,"Sore throat, Loss of taste, Fatigue, Cough",Positive,False,False,2023-06-21
+38946046-71b7-4446-b728-2cd17b6d7849,34,Other,"Cough, Fever",Negative,True,False,2023-07-15
+3a390f1f-f4fe-4828-94dc-0617d4836053,22,Other,Fatigue,Negative,True,True,2022-03-14
+8312ebaa-21d5-4e57-8253-0375221ca0b4,20,Female,"Fatigue, Sore throat, Fever, Cough",Negative,False,True,2021-10-12
+c3e86061-1af8-4ed1-beee-73acb77e8b73,39,Other,"Sore throat, Cough",Positive,True,False,2020-01-04
+af980c48-576f-48c7-ae07-f1255cabafea,10,Other,"Fever, Cough, Loss of smell",Negative,True,False,2023-12-29
+26c81856-a682-4297-8b47-12e5cbd91ab5,54,Female,"Cough, Fever",Positive,False,False,2022-01-07
+9327e04f-e7e7-496f-bb35-8a708d652bf7,5,Female,Cough,Negative,True,False,2023-12-06
+b927f417-1a07-4e6b-bdaa-10dd916b66bd,85,Female,"Fever, Loss of taste, Sore throat, Cough",Negative,True,True,2022-08-19
+526bb7b8-03ba-482e-a953-90866fabdb80,74,Other,"Loss of taste, Cough, Shortness of breath, Fever",Positive,False,False,2021-03-16
+f5924552-1ab2-4faf-9cc2-6d71b9a56213,50,Other,Sore throat,Negative,True,False,2023-10-15
+c0c72f8f-f811-4426-95b1-b9ca96f4e5bf,56,Other,"Shortness of breath, Sore throat, Fatigue",Negative,False,True,2021-12-26
+c982222d-ffda-4fee-828d-3bb0f9f85ceb,51,Female,Cough,Positive,True,True,2020-06-18
+a2ebc5cd-236e-4734-a81c-02f53f8a30f9,83,Male,"Loss of taste, Fever, Cough",Positive,False,False,2023-09-12
+e128983e-30d0-43a2-a595-e2d97ce3d6d0,8,Male,"Shortness of breath, Loss of smell, Sore throat",Positive,False,True,2023-07-17
+2f226c5c-932b-49ce-a788-5a3252206775,17,Male,Sore throat,Positive,False,False,2023-07-26
+71250c56-9a07-4026-b37b-177de1e5836e,58,Female,Fever,Negative,False,True,2020-09-06
+bbca2083-b6a8-40be-a40c-c28a93ef990d,56,Other,"Loss of taste, Fatigue",Positive,False,False,2022-12-15
+14904932-925d-41da-969b-e2d1966723fd,86,Female,"Cough, Fatigue",Positive,True,True,2020-09-15
+f8841ded-7cc0-4cb6-abfb-3b91cf3a3a84,1,Other,"Loss of smell, Shortness of breath",Positive,False,True,2021-10-04
+ab6389f1-79a9-4bea-aaaf-496e780b3009,88,Female,"Cough, Shortness of breath, Fatigue",Negative,False,False,2023-04-07
+2f0a74d2-bb6b-4254-a612-3fc94269f752,47,Other,"Loss of taste, Fever, Loss of smell, Shortness of breath",Positive,False,True,2020-12-22
+88aca3d8-44d8-485e-ad1e-0b2b5d78e397,46,Other,"Fever, Cough, Loss of smell",Positive,False,True,2021-10-15
+70fb9421-c028-47f4-b0f5-f0f38a49b7e0,94,Other,"Loss of taste, Sore throat, Fever, Cough",Negative,True,False,2023-09-20
+1b68b01d-d8dc-4f9f-8279-9424b7b2e629,80,Other,"Loss of taste, Fever, Fatigue, Shortness of breath",Negative,False,False,2022-10-04
+31eb5c16-a405-4c4e-8460-80a89f59310f,32,Female,Fever,Positive,False,False,2022-10-14
+28377257-3c5e-4a2f-8c6e-9ec25d13438f,26,Other,"Loss of smell, Sore throat",Negative,True,False,2020-07-28
+4d9ae599-ea07-448e-93e9-bf4d4fd5c352,8,Other,"Loss of taste, Loss of smell, Cough, Fatigue",Negative,True,False,2023-01-08
+4af2d854-a430-4ece-9904-a7ad52fdc03e,66,Other,"Loss of taste, Sore throat, Shortness of breath, Loss of smell",Positive,False,True,2023-01-07
+338dda80-04f6-49f3-b51b-46baa48cbae9,54,Male,"Fatigue, Loss of smell, Fever, Shortness of breath",Negative,True,True,2022-06-13
+5f4ca973-24f5-41a6-812a-389568584fa9,3,Female,Loss of taste,Negative,True,False,2023-01-31
+f7c6755f-5bc3-4bdb-aa84-b4e290f86739,98,Female,Shortness of breath,Positive,False,False,2022-04-24
+33beb201-499e-4d3e-8fdf-0da1b5344582,4,Other,"Cough, Loss of taste, Shortness of breath, Sore throat",Positive,False,True,2021-12-21
+fa7daf43-d320-48ff-816b-4555bcb08e5f,76,Female,"Loss of smell, Shortness of breath, Sore throat, Cough",Negative,True,True,2020-09-17
+78cfd59d-bf57-4bf0-9c16-f3ac7f8df742,93,Female,"Cough, Loss of taste, Shortness of breath, Fatigue",Positive,False,True,2022-09-05
+c3afde2b-ad2b-4a2e-ab1f-791f5b95151b,25,Male,"Fatigue, Shortness of breath",Positive,False,True,2023-07-28
+e91cd636-5bea-4271-a67d-9d97d036e1b5,15,Female,"Cough, Loss of smell, Fever",Positive,False,True,2020-04-16
+5c6fb2f2-b3da-41c3-b40c-cbf4f046f185,62,Other,"Shortness of breath, Loss of taste, Sore throat, Cough",Positive,False,False,2021-10-06
+3de1d883-7ef5-4168-9fec-46aff8518ec9,58,Male,"Loss of taste, Loss of smell, Shortness of breath, Sore throat",Positive,False,True,2023-08-09
+d062bcdd-1cdb-4d43-8a8e-0ce756d290dc,59,Other,"Loss of taste, Shortness of breath, Cough, Loss of smell",Positive,True,False,2022-03-08
+f2bf6898-f4d1-4fe7-af59-dfba7a538b57,8,Male,"Cough, Loss of taste, Shortness of breath, Sore throat",Negative,True,True,2022-04-18
+c066ed6b-6aff-4723-83c9-6e6f4e1e383e,18,Female,"Shortness of breath, Fatigue, Cough, Loss of smell",Positive,True,False,2023-05-23
+7f157c23-f33b-4bae-8e6c-3ed8b5d4d8de,86,Male,"Loss of smell, Fever",Positive,True,True,2021-03-09
+176d5410-7ac4-4ba8-9fdc-60bd010c88c3,42,Other,"Fatigue, Fever, Loss of smell",Positive,False,True,2022-08-31
+c5d6d604-7345-4414-9573-236cf5144299,80,Other,"Fatigue, Loss of smell",Negative,False,True,2020-06-07
+c714195a-3bfd-4cb6-8f34-d9d44ac1b27d,60,Male,Fatigue,Negative,True,True,2022-02-22
+a8a702cd-f136-4c39-8a6b-21dfeaada66c,52,Male,"Fever, Fatigue, Loss of smell, Loss of taste",Positive,False,False,2023-10-25
+08d83d0d-c2c3-4a0c-92c7-3dcaffc93776,4,Male,Fever,Positive,False,True,2022-05-04
+90fa8044-9370-4579-ba1b-08acc242751a,58,Other,"Fever, Cough, Shortness of breath",Positive,False,False,2023-01-07
+58bca83c-f404-4a4e-8de7-c7507fa1c48e,19,Other,"Fatigue, Fever, Shortness of breath, Loss of smell",Positive,True,True,2020-08-04
+138b510f-9b4a-46b7-8be1-1848d1aa35e4,2,Other,"Fever, Shortness of breath, Sore throat, Cough",Positive,False,True,2020-09-19
+871f2f0a-9ef1-4c0f-a3f9-8388082d1783,90,Other,Loss of smell,Positive,False,True,2021-11-20
+cac668d5-293b-4605-9cf4-0930d08deb2f,6,Other,Shortness of breath,Positive,False,False,2022-07-03
+a889e53a-52bd-45a2-a49f-6e5829f900ff,10,Female,"Sore throat, Fever, Loss of taste",Positive,True,True,2023-12-19
+4863d7c3-c519-46e9-a364-c699b38fcece,66,Other,Fever,Negative,False,False,2023-06-08
+af472422-fac8-4b92-a79f-328fdd6883a3,87,Female,"Loss of smell, Shortness of breath",Positive,False,True,2020-02-03
+271c7656-5633-4e1a-8738-2aa491209c65,33,Female,Loss of smell,Negative,True,False,2022-09-21
+4b6bf7b6-4619-4921-be0f-afd971dc45b6,87,Female,"Fever, Fatigue, Loss of smell, Loss of taste",Negative,True,True,2023-11-27
+53923e99-e457-42a0-aaf1-7be62591990d,42,Other,"Loss of taste, Shortness of breath, Sore throat",Positive,True,True,2021-07-28
+cd6b8b15-4584-4baa-b447-d25ef7480e51,34,Female,"Fatigue, Loss of smell, Sore throat",Positive,True,False,2020-02-25
+59c93e24-20c4-47e4-938e-c771a498b1f4,81,Male,"Loss of smell, Shortness of breath, Cough, Fatigue",Negative,False,True,2022-04-02
+2617f0ec-8d39-4808-b208-db363cff13fd,47,Female,"Fatigue, Sore throat, Fever, Loss of taste",Positive,True,True,2023-02-17
+d1a22fc5-b862-41e7-ac8a-aebc2202fff6,28,Female,"Cough, Sore throat, Fever",Negative,True,True,2020-08-01
+32f0774c-6b30-4331-8d15-33afc14d91e2,93,Female,Cough,Positive,True,False,2020-03-19
+0a2175fc-96b2-42da-bff7-d5c1b0c12b76,58,Other,"Fever, Fatigue, Loss of taste, Sore throat",Positive,False,False,2021-04-26
+22bc4f24-06bc-4197-901c-c37ad78380d7,65,Other,"Fever, Sore throat",Negative,True,True,2020-09-12
+ac695c02-2452-463b-8839-df6d3e826b52,58,Female,"Loss of smell, Sore throat, Cough",Negative,False,True,2020-05-02
+28e54603-bbc7-4cc1-b52b-6900da681b8a,2,Female,"Sore throat, Fever",Positive,True,False,2020-06-29
+93f10c20-b933-4a6c-8cab-9fb2cf845f74,26,Other,"Loss of smell, Fever, Shortness of breath",Positive,True,True,2023-10-12
+81d1fd2e-aafa-43ec-9418-a91abbdf9229,2,Male,"Loss of smell, Loss of taste, Fever",Negative,True,True,2020-07-05
+ecb90f81-20c9-4b90-9f05-c57ca1eee5cc,40,Female,"Sore throat, Fever",Positive,False,True,2021-11-01
+777106f0-21f6-41ad-9e73-273134106aad,43,Female,Cough,Positive,True,False,2020-07-15
+63f0a66e-bc7a-4c3d-9e43-97282dd9b3fa,83,Other,"Loss of taste, Loss of smell, Fatigue",Positive,False,True,2022-03-23
+ffbeb2cf-2cf9-48c5-8895-ffa18b491643,37,Female,Loss of smell,Negative,False,True,2023-01-10
+b72223dd-2176-4e0a-8977-168befc3cb7e,91,Other,"Loss of smell, Cough, Fever",Negative,False,True,2023-04-27
+5976bb1e-3c1c-4fd9-a507-06002a3409e9,88,Male,"Fever, Loss of taste",Positive,False,True,2023-07-31
+08274c57-2729-47d6-923e-5906ad889317,19,Other,Cough,Positive,True,True,2023-06-02
+04c934a4-9904-45e3-b220-cef1c7148c24,49,Male,"Loss of smell, Fatigue, Fever, Sore throat",Positive,True,True,2021-06-01
+db13c55c-348d-4116-b78c-efd7a8911d2e,18,Other,"Sore throat, Fever",Negative,False,False,2022-10-26
+c75502bd-90be-4084-8b10-37a2899fda04,17,Female,"Loss of smell, Cough, Shortness of breath, Fever",Positive,False,False,2022-08-07
+0cf34a72-7158-4012-80d5-4708a61f9a72,9,Female,Loss of smell,Positive,True,False,2020-01-22
+9d8b5c95-c89e-4401-ac49-5a4edbdb1715,100,Other,"Fatigue, Sore throat, Loss of smell",Positive,True,True,2023-01-23
+40dc9b46-b5ba-4234-a382-99c0183feaaf,35,Male,"Loss of smell, Sore throat, Shortness of breath, Fever",Negative,False,True,2022-03-26
+80cc4dcf-00f9-48ce-af64-065f95988504,52,Male,"Sore throat, Loss of taste, Loss of smell",Negative,True,False,2020-02-10
+c38b79e1-91ad-44f4-8fca-3d26b5d12f8c,22,Other,"Shortness of breath, Fatigue",Positive,False,True,2023-08-28
+85f783f5-2740-468d-8c88-cf38a65627df,22,Female,"Cough, Fatigue, Fever, Loss of smell",Negative,False,True,2022-07-12
+790d2c73-6ce9-458f-b1ac-398c150bf317,59,Female,Shortness of breath,Negative,True,True,2020-11-29
+757e103d-8f29-4ad2-aa12-212e8170458a,13,Other,"Fever, Shortness of breath, Cough",Negative,False,False,2023-04-15
+1b0ca7c0-d458-4e26-8a44-2b4ec6206545,9,Other,"Fever, Cough, Fatigue",Positive,False,True,2020-07-03
+557f02f2-9690-4264-be62-9f8eb29342a1,81,Male,"Loss of taste, Loss of smell",Negative,False,False,2020-04-18
+82cbac25-0ed7-472b-a1fe-4ed32186c1b4,78,Other,Sore throat,Positive,True,False,2020-08-21
+629af422-0f6f-4318-a0dd-b79650c74d2a,22,Female,Fever,Negative,False,True,2022-11-07
+bd7d9795-8acf-4167-a211-fe00b1ff625f,59,Female,"Fatigue, Fever",Positive,True,False,2020-08-06
+6483e356-3b59-4176-90a5-67ad4bc792d3,44,Other,"Fever, Fatigue",Negative,False,False,2023-04-11
+389b1ecc-d460-4db9-8578-3fee63b54645,10,Male,"Sore throat, Fatigue, Shortness of breath, Loss of smell",Positive,True,True,2020-11-18
+12a49b8a-9f77-4d70-a077-f9556c7b9b0a,36,Male,"Fever, Loss of taste",Negative,False,True,2021-08-01
+209ad94e-44cb-4837-b809-d151b45bc19b,90,Other,"Fever, Fatigue, Sore throat, Cough",Negative,True,False,2021-08-14
+a834b682-885a-44fe-97c8-3eec55768036,10,Female,"Shortness of breath, Cough, Sore throat, Loss of taste",Negative,False,True,2021-08-29
+a56e717b-2342-4db8-a60a-7e371eb2c97b,70,Male,Loss of taste,Negative,False,False,2020-09-01
+464ee327-0dd7-434e-a625-6effd554c417,37,Other,Sore throat,Negative,False,False,2023-02-13
+99543c26-2106-4197-9280-24df9723916b,69,Other,"Fever, Shortness of breath, Loss of taste, Sore throat",Negative,True,False,2021-01-31
+554e2801-bce6-4f50-bb6e-9ba3213e95e7,60,Female,"Loss of smell, Loss of taste",Positive,True,True,2023-08-06
+c653b2a5-79b7-418b-9435-6978cd8bd673,29,Other,Loss of smell,Negative,False,False,2021-02-17
+fd2306cd-acfb-4738-8e6e-9f2f74fbd1b6,14,Female,"Loss of smell, Loss of taste, Shortness of breath, Cough",Negative,False,True,2023-08-07
+e071d540-a362-429e-94fd-f91f97b88fdc,94,Male,Sore throat,Negative,False,True,2022-04-03
+7582f13d-2ad7-4a78-aa15-2d8141642718,44,Female,"Loss of smell, Sore throat",Positive,False,True,2021-09-03
+208966b9-0254-48d1-8d37-8ddacb7e587c,32,Female,"Shortness of breath, Fever",Positive,True,True,2022-04-15
+5313c07e-1c58-4525-b472-8ecdf7fe6fdd,34,Female,"Fatigue, Loss of taste, Cough, Loss of smell",Negative,False,True,2021-06-07
+2b01c233-6120-4b39-af88-3a92f9be0e45,2,Male,"Fever, Shortness of breath",Positive,True,True,2022-04-25
+7e5aa737-ecb2-49e2-bc34-56e5b949081c,34,Male,"Fatigue, Sore throat, Fever, Loss of smell",Negative,False,True,2021-01-05
+2e5e4dd8-6d05-4831-b6d5-513d8d0b431b,71,Female,Cough,Positive,False,True,2021-11-02
+3dd20275-41e2-4b65-9995-a573c628f979,8,Male,"Cough, Fatigue, Shortness of breath",Positive,True,True,2022-12-12
+e51d411f-5450-4e70-a4b4-312220ba5f55,45,Female,Sore throat,Negative,True,False,2023-09-19
+8ea65f96-3028-4ad9-ae02-2cf6c290d09d,44,Female,Loss of taste,Negative,False,True,2021-03-31
+b51a9f79-b5b6-4957-b08f-36bd76ef38ed,13,Other,"Cough, Sore throat, Fever, Fatigue",Positive,True,True,2023-08-25
+f9dd647a-71b0-4eea-a9c4-292522e463b7,65,Female,"Fatigue, Cough, Sore throat",Positive,True,False,2021-11-14
+473505b0-6fc4-464c-98b0-a2ad78ce6237,61,Other,Loss of taste,Positive,False,False,2022-07-18
+6ecebb2f-8ecb-4246-9bdc-3b171368e96c,25,Male,"Sore throat, Fever",Negative,True,False,2020-02-26
+0d73de14-b6c2-48dd-b9b4-bb5826b7f827,94,Female,"Shortness of breath, Fatigue, Fever, Loss of smell",Negative,False,True,2021-05-25
+7e5bbe7e-4a1f-41c5-ab50-24c6b33a4995,8,Female,Fever,Positive,False,True,2023-12-23
+24bf7166-1bfc-4190-aca2-aef2b19ddd63,2,Male,Shortness of breath,Positive,True,False,2021-11-06
+07932c38-9cbe-44a2-8b14-0c6b30b6bb53,92,Male,"Loss of taste, Cough, Fever, Loss of smell",Negative,True,True,2021-08-11
+c9f0be70-15eb-4e62-ae3c-f74882a02f67,82,Other,"Loss of smell, Shortness of breath",Positive,False,False,2022-09-08
+01f26ca6-0297-40c1-ba1d-a8aa380af302,39,Male,"Fever, Cough",Negative,False,True,2020-08-16
+8aa0e51f-b657-4661-8a24-bf47f4c34a63,61,Male,"Cough, Loss of taste",Positive,True,False,2020-12-23
+c16f10be-b782-4dd8-9846-2ef952fc73c5,45,Other,"Loss of smell, Fever, Loss of taste, Shortness of breath",Negative,True,True,2022-06-02
+f5c8aeeb-3588-4ee0-9346-731b92b93770,43,Male,"Fever, Cough, Shortness of breath, Loss of smell",Positive,True,False,2023-09-07
+5542bcb9-22f4-4d82-94d0-8aff27cc3058,50,Female,"Fatigue, Sore throat",Negative,False,True,2023-10-24
+c1487b32-9bcf-4c87-ad09-11c167229d1c,93,Female,Loss of taste,Negative,False,False,2021-05-16
+41c56c1e-9de1-4258-9226-e05cfe9924a5,58,Male,Loss of taste,Negative,False,False,2020-12-09
+39bc6f6d-1434-4fb2-9746-85023f6eba4e,78,Female,Loss of smell,Positive,False,False,2020-08-23
+50d93efb-8745-445e-bdf0-df7c6fc4c08e,13,Male,"Loss of smell, Cough, Loss of taste",Negative,True,False,2020-07-12
+4c249797-c9b3-49c0-9529-b376fbfd805c,2,Other,"Loss of smell, Cough",Positive,True,False,2020-10-14
+f334c306-0ab9-462e-8bda-d167e3d6017b,48,Female,"Sore throat, Loss of taste, Shortness of breath",Negative,False,True,2023-03-17
+7d4d906a-d79e-4cf3-bf7a-a20a40c41693,13,Male,"Loss of smell, Sore throat, Cough, Fatigue",Negative,True,True,2022-01-31
+685d848a-7903-4fd2-92e8-660a2e3a0b0c,35,Other,"Fever, Sore throat, Loss of smell",Negative,False,False,2023-11-25
+9dcc5c74-99ef-4f75-9edd-472abb09135b,64,Male,"Fever, Shortness of breath",Positive,True,False,2020-09-30
+533ec8ec-d635-4523-bb01-42d0d9c66f6b,73,Other,Sore throat,Positive,True,False,2021-07-26
+d009aea0-1c6c-486a-ab99-6f777f5d79b8,56,Male,"Fever, Cough, Sore throat",Positive,False,True,2023-09-19
+4b188516-428d-4589-a3b2-dff3e8887990,26,Female,"Loss of smell, Fever, Loss of taste, Shortness of breath",Negative,True,False,2021-01-17
+8b672ae6-2df2-41b2-a648-2353a07e4eed,1,Female,"Sore throat, Loss of smell",Negative,True,False,2023-04-25
+75631392-bec6-40b1-a053-1c266f4d42bd,11,Other,"Cough, Fatigue",Positive,False,False,2022-10-04
+038f3d45-b8ea-42ca-85a8-1db796ec4526,3,Female,"Fatigue, Sore throat, Fever, Loss of smell",Positive,False,True,2023-02-10
+fc39a411-7169-47f4-94b4-22370bfb2fdc,37,Male,Fever,Positive,True,False,2021-03-24
+1384ae71-3f04-4537-93cb-d3389e3dd7fd,83,Other,Shortness of breath,Negative,False,False,2022-11-25
+98af21c0-464e-4477-b163-0d46bd7ca9b0,75,Female,"Shortness of breath, Loss of taste, Fever",Negative,False,False,2020-02-12
+3c3809e4-1cfa-4776-984e-84ede6a83f0a,71,Female,"Loss of smell, Fatigue, Shortness of breath",Negative,False,False,2020-10-25
+08fc1d6b-142b-478e-80de-a0f49716cbb9,93,Other,"Cough, Sore throat, Loss of taste, Fatigue",Positive,True,False,2022-04-07
+168b9ef2-f588-4e81-90d3-1c34bd8ec8fa,90,Male,"Shortness of breath, Loss of smell, Fever, Loss of taste",Negative,True,False,2021-12-31
+feda21e4-a79a-4d76-b367-f33619bbb300,40,Other,"Loss of taste, Sore throat",Negative,False,False,2022-03-02
+deced07e-4363-47aa-a41a-c620943f3fdd,44,Female,"Sore throat, Loss of taste, Fever",Negative,True,False,2021-07-05
+808fc767-345d-425e-947d-1008cb480e7a,19,Male,"Fatigue, Loss of taste, Sore throat",Negative,False,True,2020-01-21
+2c67eb8e-c381-4e47-ac3a-a53964e6a925,33,Male,"Fatigue, Shortness of breath, Loss of taste",Positive,False,False,2020-06-06
+87d89b5b-958c-4761-9462-c8d0b39707d4,94,Male,"Cough, Loss of smell",Negative,False,False,2021-01-18
+3eca0145-9c73-42de-8656-94f95627bb2a,8,Other,"Shortness of breath, Loss of smell",Negative,True,False,2021-08-13
+1d752d94-d0b1-4df2-bf55-fba1bcb8c38c,99,Other,"Sore throat, Fatigue, Loss of taste",Positive,True,True,2021-10-13
+b3f90f94-3631-44a0-bbf3-ff075e223d75,94,Female,"Loss of taste, Sore throat, Cough",Negative,False,False,2020-03-25
+cb2cac53-5354-4157-8e1f-96843cdf864c,61,Other,Sore throat,Positive,False,True,2021-01-09
+16f39874-f876-47c7-b54c-b27198972784,22,Other,"Loss of smell, Cough, Fatigue",Negative,True,False,2020-09-23
+23ddbe29-c7be-4ba0-86a2-38960d2353c4,74,Female,Fatigue,Positive,False,False,2022-04-13
+68775c4f-f53c-4d0e-8d63-7fe0a1497a64,43,Other,"Shortness of breath, Fatigue, Loss of taste",Positive,True,False,2023-01-07
+4d4d55ba-b453-4f56-a36a-49120f751baf,97,Female,"Cough, Fever",Positive,True,True,2021-11-13
+b0203e35-4cdf-4e98-9649-650442ac67fc,73,Female,"Fatigue, Loss of smell, Fever, Loss of taste",Positive,True,False,2020-09-13
+19253991-d64c-4d82-b252-c11b00a071a1,23,Male,Cough,Negative,False,False,2021-08-23
+9793ed7b-e8e0-4364-80a9-e6ec0fd71f76,34,Male,"Loss of taste, Sore throat, Loss of smell",Positive,True,False,2020-09-17
+c65a782c-8443-45bb-b54f-924226681c4a,99,Other,"Fever, Sore throat",Negative,True,False,2022-10-25
+fd9eeaf6-e1d3-4407-9821-108705409891,70,Female,"Cough, Shortness of breath, Loss of smell",Negative,True,True,2020-01-16
+d8761fad-575d-448e-b8e8-a5928356a38e,93,Male,"Sore throat, Loss of smell",Positive,True,True,2023-10-11
+91a9085c-a81d-4b29-830c-229bfe8d75fc,12,Female,"Cough, Shortness of breath",Negative,True,False,2021-02-28
+fcf496b9-6d10-4d2e-ac2c-ce5844c409c7,60,Other,"Loss of taste, Loss of smell",Negative,False,False,2022-01-12
+3cca4eda-3c17-4e00-b780-c43151c78bd9,13,Other,"Fatigue, Loss of smell",Positive,True,False,2022-04-13
+10f60231-32b9-4d12-a53f-cfbeb7f8afc1,20,Male,"Sore throat, Fatigue",Negative,True,False,2023-09-15
+ab7120ea-bf8d-4d68-a552-b9413193e221,47,Other,"Shortness of breath, Loss of smell, Cough",Negative,True,False,2020-07-07
+bd458d9c-3bd1-44b8-a720-22b617337180,41,Female,"Shortness of breath, Fatigue, Loss of taste, Loss of smell",Negative,True,False,2023-11-27
+957f55b9-c946-440f-bbfc-34ed9ce351ea,31,Male,Fever,Negative,False,False,2022-09-26
+85e5f3e7-7b97-4602-aefb-5690939860a4,18,Other,Sore throat,Positive,True,False,2020-10-09
+a7a95b0a-105a-4c2a-ae54-6f5e5dbee9df,50,Other,"Shortness of breath, Fatigue",Positive,True,False,2021-12-07
+31850472-3633-4b04-a81d-d7e6c6ad6b5e,29,Male,"Loss of taste, Sore throat, Loss of smell, Fever",Positive,True,True,2023-11-20
+417f5ce0-3889-4fc7-9ee0-f881731a035e,56,Other,"Cough, Loss of taste, Fever, Shortness of breath",Positive,False,False,2023-11-15
+34d711de-1fed-4f71-bc15-cf2b759ad30f,58,Male,"Loss of taste, Loss of smell, Sore throat, Cough",Negative,False,True,2020-06-01
+0ad43f83-3298-4f96-b174-c5a4d0755ced,44,Other,"Shortness of breath, Loss of taste, Fever, Fatigue",Positive,False,False,2023-09-07
+338dd13c-675b-4a1e-ba9b-837ca0008916,0,Female,"Fever, Fatigue, Sore throat, Loss of taste",Positive,False,True,2022-03-28
+1a9d21a3-be35-428c-b5a6-468479f73c39,46,Male,"Shortness of breath, Fever",Positive,True,False,2020-04-18
+a53d2fad-12d0-4192-8f58-fe93d1f5ebac,76,Other,"Cough, Fever, Loss of taste, Fatigue",Negative,False,False,2021-02-26
+b3a34410-902e-45df-b023-f71fd8d46541,93,Other,"Fatigue, Fever, Cough, Sore throat",Positive,False,False,2021-05-02
+4157b900-7d71-4284-b4c8-0fe8732bc6b7,66,Female,"Shortness of breath, Fatigue, Sore throat",Positive,True,True,2022-02-18
+915bd180-dae6-48cf-86d5-fc187ecb1781,79,Male,"Shortness of breath, Sore throat, Fever, Fatigue",Negative,False,False,2021-05-05
+0eba283f-2f23-4254-bbb8-374dc07eff2d,70,Female,Sore throat,Negative,False,True,2021-12-01
+3b464942-1ad5-4a8f-841c-8f642ed8591d,14,Female,"Cough, Fever, Sore throat",Positive,True,False,2023-11-11
+aa953a72-5b0f-4fb3-bb64-16aed055596e,2,Male,"Shortness of breath, Loss of taste, Fever",Positive,False,False,2022-01-24
+efec146f-000f-46d6-868b-be702341b155,91,Male,"Loss of smell, Fever, Shortness of breath, Fatigue",Positive,False,True,2021-08-26
+9a3af599-de10-4fdd-bbb2-464a54ce9842,78,Female,Cough,Negative,False,False,2022-09-26
+cb32d9d6-cafd-465a-afa9-b5b42b695727,34,Other,Cough,Positive,False,False,2020-01-26
+de7c76e2-29e4-4e83-933a-9b53cf862dc7,80,Other,"Shortness of breath, Fatigue",Negative,False,True,2021-04-20
+5503bcd2-0c0d-4d54-bb70-2c582b7dd62c,67,Male,"Cough, Loss of smell",Positive,True,False,2023-06-14
+85fe2da5-f5b3-42ec-a519-33041aca8048,24,Male,"Fever, Sore throat, Loss of smell, Loss of taste",Positive,False,True,2023-08-05
+4648fbb5-9d1d-4205-8c16-86cf01b0f10c,52,Male,"Cough, Loss of smell, Fatigue",Negative,True,True,2023-05-04
+3768b3e8-c1aa-4a6c-999d-222e5d93a7ab,61,Male,Loss of taste,Positive,True,True,2023-01-28
+807024c1-971f-4637-b7cb-79428ba895f0,55,Other,Fatigue,Positive,False,False,2020-02-20
+105e63db-0ede-437d-bfb4-95d130818e91,61,Female,"Shortness of breath, Loss of taste",Positive,True,True,2020-10-17
+04c3e52d-bf76-4b3a-8ec8-053efc16424e,61,Other,"Fever, Fatigue, Loss of taste, Shortness of breath",Negative,True,False,2022-11-12
+eefeb7ba-95f6-4b2b-b0c2-d7a24977acdb,96,Other,"Sore throat, Shortness of breath",Positive,False,False,2021-03-11
+64e86f91-da47-4c08-a768-6104ecc7d2cd,19,Other,"Fatigue, Shortness of breath",Negative,False,False,2023-03-02
+43dfbcce-3a9d-4e59-9fa3-6ab7b6648253,91,Male,Loss of taste,Negative,False,True,2021-10-13
+01ba868d-adf2-4fdc-9b15-209ab21b0fd0,33,Other,"Loss of taste, Sore throat, Cough, Fatigue",Positive,False,True,2020-05-18
+b8002f60-f0ab-4cb3-9144-109c7688c7f6,16,Male,"Shortness of breath, Fever, Sore throat",Positive,False,False,2023-10-21
+9a8603fe-98ae-4bcf-ae96-7647c73e9a31,30,Male,"Cough, Loss of smell",Positive,True,True,2023-07-10
+6caa5c4d-3c7d-4bbd-a95d-243cc28947bf,98,Other,"Loss of smell, Shortness of breath, Cough",Positive,True,False,2021-11-20
+373038d0-6d77-482b-b20a-d52edb83c8f8,65,Male,"Sore throat, Fatigue, Cough",Positive,False,True,2023-07-20
+cc661537-328a-4af0-b271-a6b45c27ba08,94,Male,"Loss of taste, Shortness of breath, Cough",Positive,True,False,2020-01-30
+03083d14-62a2-4161-8869-320f63e2aa10,62,Male,"Fever, Loss of taste, Shortness of breath",Positive,False,True,2022-05-01
+781387f0-858f-44ad-a388-52f9e284b530,52,Male,"Sore throat, Loss of smell, Fever",Negative,False,True,2020-01-30
+5af640e0-da52-429c-8e77-d2086e1c778f,32,Female,"Fever, Loss of taste",Positive,True,True,2021-05-29
+9db08b2a-0d62-4ecd-bae1-ef4e4e102ed2,22,Other,"Shortness of breath, Sore throat, Loss of smell, Fever",Negative,True,True,2020-07-19
+f1c4b198-2272-4e7a-8dd0-de6ca2a4acce,94,Other,"Shortness of breath, Fever",Negative,True,True,2021-09-07
+4439396b-9a22-43ee-bf41-3ee61c13eb08,3,Male,"Shortness of breath, Cough",Positive,True,False,2023-10-28
+4d5b2ac8-da7e-41ea-b7d3-5d11fe36deb3,79,Female,Sore throat,Negative,True,False,2021-05-14
+2c813569-4ade-4011-a05c-b13c2cf5bc16,96,Other,Cough,Positive,True,True,2023-03-23
+b3911262-aba0-4dde-8ead-43d6f66dae55,58,Male,Loss of taste,Negative,False,True,2023-01-08
+da1e4064-e4e9-4fb6-b3ff-2da75c242a23,95,Male,Loss of taste,Positive,True,False,2023-05-02
+f47c438e-ee20-42ea-a3e0-76d240160594,52,Other,"Shortness of breath, Loss of taste",Negative,False,False,2022-01-23
+0352ceb4-a0b5-43b7-adba-ee2eae1d0ef6,83,Male,Fever,Positive,True,True,2022-01-20
+517adf17-85e5-4206-920e-5b36a031396c,26,Other,"Fever, Shortness of breath, Sore throat",Negative,False,True,2023-06-09
+903c4117-6cba-4422-8d1b-7f64b36cb0f1,98,Other,"Loss of smell, Fatigue, Sore throat",Positive,True,False,2023-04-17
+5a226271-6d26-46de-8144-fb188623586c,13,Other,"Loss of smell, Fatigue, Sore throat, Shortness of breath",Positive,True,False,2020-08-30
+a6ec1a56-7d3f-4954-828e-c9a45db88b71,81,Other,"Loss of smell, Shortness of breath, Fever",Negative,True,False,2022-12-07
+a4f7cd01-91c9-4e61-9d0c-d87849bb2323,35,Other,Loss of smell,Negative,True,False,2023-08-03
+93908ed4-7371-49a2-a6dd-a513898797ef,44,Male,"Loss of smell, Shortness of breath, Cough, Loss of taste",Negative,True,True,2022-01-02
+84848425-92cf-4c3f-8464-09f40b82284d,43,Female,Loss of taste,Negative,False,False,2021-04-11
+bb1b834d-ca93-434b-ba22-6c772d1b2c91,18,Female,"Sore throat, Shortness of breath, Cough, Loss of taste",Negative,False,False,2022-10-20
+e2f016dc-a14b-48d5-ac8f-8784e266ac0c,75,Male,"Cough, Sore throat, Fever, Fatigue",Positive,False,False,2022-02-07
+046b2422-33a1-4f26-af9a-e51e01eddd89,34,Female,"Loss of taste, Fever",Negative,False,False,2020-10-31
+b4a90063-a4b6-4c55-84a3-468856c1fb53,94,Other,"Cough, Fatigue, Loss of taste",Negative,False,True,2020-08-23
+3da58e99-8bb8-4f45-8127-b46d5cffebc1,52,Female,Loss of taste,Negative,True,True,2022-09-01
+e537e224-8f1f-4351-be5a-1244ace6bac2,0,Female,"Fatigue, Loss of smell, Sore throat",Negative,True,True,2021-09-19
+97106f17-684a-4250-a01e-6377732180c2,13,Female,"Cough, Sore throat",Negative,False,True,2021-03-14
+23ef7d73-5e75-4e51-a65a-9e3eb67a1b6e,27,Male,"Fever, Loss of taste",Positive,False,True,2021-05-12
+e0954763-9f79-4f9a-8f06-fa62dcd2fe2a,1,Female,"Loss of smell, Loss of taste, Cough, Fatigue",Positive,False,False,2021-10-21
+335b6623-d74a-44bc-bfef-7a5743fa9db4,46,Male,"Loss of taste, Shortness of breath",Negative,False,True,2022-03-18
+86294327-974b-4c61-89c0-7a403cf0e6db,30,Other,"Loss of taste, Shortness of breath, Fatigue",Negative,True,False,2023-02-18
+5635515c-f73a-4f6d-806b-58b397953f83,47,Other,Fever,Positive,False,False,2020-08-18
+1594c43b-39c0-47cc-9d36-d93e108e58f0,78,Male,"Shortness of breath, Loss of taste, Loss of smell",Positive,False,True,2022-03-31
+0c1e4c5f-70dd-407a-943a-e2cc317f45b6,11,Female,Sore throat,Negative,False,True,2023-07-03
+685fee03-d32e-4f2c-97fb-de4dcb2e9a33,13,Other,Loss of taste,Positive,False,False,2022-09-25
+2e1acf6f-52db-4a2f-a431-810859fd7ef3,76,Male,Cough,Negative,True,False,2021-07-18
+54969cbd-0dc7-433d-9d12-85d7b1571af4,64,Male,Loss of taste,Positive,True,False,2023-08-15
+1473a19d-ae3f-48d3-8aa9-fc15bb322ced,97,Male,Sore throat,Positive,True,False,2023-11-27
+0cab214b-9122-4c9e-b2ef-9f8696ef05f9,47,Female,"Cough, Fatigue, Shortness of breath",Positive,True,False,2021-10-16
+e7fd79da-7b49-4469-bcc2-ab83f02443a4,52,Male,"Loss of taste, Fatigue",Positive,False,True,2020-09-09
+bf76b6af-1413-4bec-96ec-d3c73045a7c4,11,Male,"Sore throat, Shortness of breath, Loss of taste, Fatigue",Negative,False,False,2022-05-27
+b77ae16e-a75e-4d16-9cee-0fd16a276305,98,Other,Sore throat,Negative,True,False,2021-06-26
+9e745661-7c2b-41c9-9a05-2cc01d6c5032,36,Female,"Loss of taste, Fever, Loss of smell",Negative,False,True,2020-06-04
+53f3d7e9-6a03-46ee-9af2-b9b70e7b82b5,89,Male,"Loss of smell, Shortness of breath, Sore throat, Fatigue",Negative,True,False,2021-01-21
+a3823fcd-fb8e-4e0a-88b0-ac1ab5b5c0a8,39,Female,Sore throat,Positive,False,False,2021-06-14
+38e5444b-a745-43f3-812c-f5b0ea25585a,65,Male,"Shortness of breath, Fever, Cough, Loss of taste",Positive,False,True,2022-05-18
+a3d078d4-7eda-4f31-8128-af67bb8cbc68,15,Other,"Cough, Sore throat, Loss of smell, Shortness of breath",Negative,False,True,2022-02-27
+9f137c5b-bc35-4c71-aea2-6209493650c7,91,Male,Loss of smell,Negative,True,True,2021-07-29
+e989c765-1caa-491e-afa5-c77a514cd12a,37,Female,Loss of smell,Positive,True,True,2022-05-13
+7aafe45a-fd6b-4e87-9dd6-8f50e2d7585d,34,Male,"Cough, Loss of taste",Positive,False,True,2021-02-06
+8c41000a-db4d-48b3-8dc9-4668da5fe85a,65,Female,"Shortness of breath, Loss of taste",Positive,True,False,2020-02-03
+65b951d8-51d8-4be1-a6d7-fde8f5e7ae36,89,Female,Loss of smell,Positive,True,False,2020-02-16
+0bc5e534-e9d4-4ff8-84a7-e9e6231ecc1a,23,Other,"Loss of smell, Fever, Fatigue, Cough",Negative,True,True,2023-04-23
+05865e47-daa5-410d-bd9a-eadd51871f6e,4,Male,Cough,Positive,False,False,2020-01-17
+309e6baf-ca5c-445c-94ce-c50e42bca5ac,64,Other,"Sore throat, Cough, Shortness of breath, Loss of taste",Positive,True,True,2020-08-18
+6ef1b24a-4aeb-482d-904e-700038955cf6,42,Male,"Loss of taste, Shortness of breath",Positive,True,False,2022-10-28
+31b1f048-039f-41eb-a450-2fcc453a9c16,18,Female,"Loss of taste, Cough",Positive,True,True,2023-08-24
+71370355-9188-40ab-a72c-0a218ca6c20c,62,Male,"Fatigue, Cough, Loss of smell, Loss of taste",Positive,False,True,2023-02-22
+318a03c7-d2e4-4ae6-966b-39d42bc68eef,64,Other,"Fatigue, Cough, Fever, Sore throat",Negative,False,False,2022-05-04
+6ceffe26-e31c-4c56-869c-f0dbbe81487c,48,Female,Sore throat,Negative,True,True,2022-08-24
+ba3d01bb-026a-4518-9e2a-842b31bb93c0,0,Female,"Fatigue, Cough, Sore throat, Fever",Positive,False,False,2020-03-30
+de85c7c1-3457-40c5-814d-2b5bd35145ed,3,Other,Shortness of breath,Positive,False,False,2023-01-16
+ece7e837-b2be-4849-bc44-5c7d10a058d3,31,Female,Sore throat,Negative,True,True,2022-08-19
+f25213b8-5329-4e98-96d7-834da7115af2,3,Other,Fever,Positive,False,False,2020-08-28
+abf1d0db-f2a1-4078-a596-bbea0498da7a,28,Male,"Loss of smell, Loss of taste, Fatigue, Shortness of breath",Negative,False,True,2023-12-08
+e0ab38c0-008a-40cf-b23e-95df2d2c60f3,62,Female,Loss of smell,Negative,True,False,2023-10-25
+bdd3abdc-ad2c-4d39-af67-35ce6a435164,82,Female,"Fever, Shortness of breath, Sore throat",Negative,False,False,2021-05-13
+faa82d04-5dc3-4df7-8f7e-87246cede947,35,Female,"Fatigue, Loss of smell, Sore throat, Cough",Negative,True,False,2023-04-13
+edb19d73-850a-4c3d-8eee-ca5f31196cbb,72,Other,"Loss of smell, Shortness of breath, Fatigue",Positive,False,False,2020-02-10
+3b19f46f-3381-4586-88d6-50236a684d30,13,Male,"Sore throat, Fever",Positive,False,True,2021-08-13
+e9c16933-f9f2-4291-8f27-e98493ae7c41,32,Male,"Cough, Fever, Loss of taste",Positive,False,True,2022-08-12
+3796ce75-7139-474d-a991-18dbb35a6f93,19,Female,"Loss of smell, Sore throat, Fever",Negative,True,False,2020-05-30
+950e907a-81ab-48e8-ab5b-2b5d744a0f66,11,Male,"Shortness of breath, Loss of smell, Fever",Positive,False,False,2020-02-03
+b5374815-4593-4a4c-b90c-245053cdbe91,68,Female,Sore throat,Negative,True,False,2020-10-14
+5a1c012a-6cd4-43bd-b2ee-51f79126e457,1,Female,"Fever, Fatigue",Negative,False,True,2022-08-28
+959ce28b-9a2e-410b-b429-404edfacc387,1,Male,"Fatigue, Loss of smell, Fever, Sore throat",Positive,False,True,2023-12-15
+a7b6c4f9-5fba-4054-94a8-827fe4e26eff,65,Female,Cough,Negative,True,False,2021-06-24
+447440be-9895-4baf-bf61-13e18cdad029,10,Male,"Cough, Sore throat",Positive,True,True,2023-06-15
+365107f7-0cbf-4969-a827-ccc04ed0125a,11,Female,Loss of smell,Negative,False,False,2022-12-04
+764e5b7e-cab3-4512-a3cb-7feaca23226e,54,Female,"Cough, Sore throat",Negative,False,False,2023-07-09
+bbedf9d4-10fe-431a-8d4d-d12289458d30,54,Female,"Sore throat, Loss of taste",Negative,True,False,2020-01-01
+179c6194-0eaa-4ccf-ac57-4a7d6f927163,77,Other,"Shortness of breath, Fever",Negative,False,True,2021-03-07
+aa1cb948-d21e-45e0-b1fd-45e9e50229ca,9,Female,Shortness of breath,Positive,False,True,2023-05-06
+3f47512c-8b22-4111-876e-ac9e89da3941,20,Female,Fatigue,Negative,False,True,2022-11-21
+27354a24-d89a-457f-9fa9-fab8de53c77d,95,Female,"Fever, Loss of smell",Negative,False,True,2022-03-14
+eb452f8b-dfc3-4d67-81de-a682bef60096,61,Other,Shortness of breath,Negative,False,False,2023-01-11
+3f2be9d4-965c-45c3-8e7c-a8e4214496fb,81,Other,"Fever, Loss of taste, Shortness of breath, Loss of smell",Positive,False,False,2020-06-29
+8f60cc89-acd2-450f-a7c6-61ecd5ce5863,10,Other,"Fatigue, Fever",Positive,False,True,2020-11-16
+fd5283c0-9ee9-41c7-9cf3-d21f1e1934ff,71,Female,"Shortness of breath, Loss of taste",Positive,False,True,2020-06-14
+cd40a4a8-6aa8-4ca7-90bc-12a277523dc0,52,Male,Cough,Positive,False,True,2022-01-01
+114c4812-d075-430a-86b5-64fe962c8d44,91,Female,Loss of taste,Negative,True,True,2023-07-27
+b595ca17-bf8b-4abe-92db-bfaa09de6aa1,93,Female,"Fatigue, Cough, Shortness of breath",Positive,False,True,2022-07-22
+68a4d291-5ead-4877-9e4d-aaf8d3d2b4b6,60,Male,"Fatigue, Fever",Negative,False,False,2021-04-02
+1b91bbb2-696d-4d7f-aca5-8608dbe8f896,99,Female,"Cough, Fever, Loss of smell",Positive,False,False,2023-07-04
+a0b43fe3-2a0a-44a9-963c-cbd815996631,26,Other,Loss of smell,Negative,True,False,2020-08-14
+5f18eb5c-d2df-4a37-99a6-5f8e2904257c,60,Female,"Loss of smell, Cough, Fever, Fatigue",Negative,True,True,2020-03-18
+a4a43b15-0356-4b59-88a7-03937aa2042c,27,Male,"Shortness of breath, Fever, Fatigue",Negative,False,False,2021-07-18
+bf2eb55a-5c1f-499a-b5d1-91ec658d2c45,22,Male,"Sore throat, Loss of taste, Fever",Negative,True,True,2020-03-31
+8d2dfc65-408c-4e31-aae5-04d52585fec0,65,Female,"Loss of taste, Shortness of breath, Loss of smell",Positive,False,True,2023-06-21
+3b2e7638-6d0d-4a7d-a62f-b49207ef7161,100,Other,Loss of taste,Positive,True,True,2023-08-12
+baf3c9a1-1a1c-4184-b3b5-5102b4d65993,69,Male,Loss of smell,Negative,False,True,2023-05-26
+3933324e-f300-4156-8b7f-c8572fa54b20,52,Female,"Shortness of breath, Fatigue, Fever, Loss of smell",Negative,False,True,2021-11-18
+bea56055-3775-428b-ad72-5011c52cdec3,27,Male,Loss of taste,Positive,True,True,2023-01-03
+56383a30-b1f3-4020-a96e-0203b79aebbf,44,Male,"Fatigue, Loss of smell",Negative,False,True,2021-07-14
+eaa73740-e993-4ab7-b6ef-d4867aca081b,92,Male,"Loss of taste, Loss of smell",Positive,False,True,2020-04-18
+59702abb-f6f5-4b17-afc8-68e2ed61e8da,71,Female,Fatigue,Positive,True,False,2020-09-06
+f4319213-ed14-4f5b-8977-37676cdf1f44,70,Female,"Fatigue, Loss of smell",Positive,True,True,2022-02-19
+681319f2-0931-43b6-806c-eb52c941385f,6,Other,"Cough, Loss of taste, Sore throat",Positive,True,True,2022-03-21
+0b9a5d19-65b0-4fa7-b9be-6510a2c2b409,33,Female,"Loss of smell, Fever, Shortness of breath",Positive,True,False,2021-08-20
+3ee77c32-2a57-4c47-a878-58849bee7bff,15,Other,"Cough, Loss of taste, Shortness of breath, Loss of smell",Positive,False,False,2022-06-04
+c7b50a6f-b82a-4ac0-851a-9be3d860d4a4,18,Female,"Cough, Fatigue",Positive,False,False,2023-10-11
+459d3d5c-031f-4389-9a1b-19e36844ed86,46,Male,Sore throat,Negative,False,False,2020-04-10
+68908bdc-c1a5-448b-b595-482e06c82b20,30,Male,"Loss of smell, Loss of taste",Positive,False,False,2021-05-19
+f3f1e8b4-28e2-4894-8227-0635b721b197,74,Female,"Loss of smell, Fever, Sore throat",Negative,True,True,2023-08-09
+4dc70780-0f25-4140-982a-ee2fa1ddc300,12,Male,"Cough, Loss of taste, Sore throat",Negative,False,False,2023-06-25
+e80bb96c-cc8e-4254-ba93-29ec39e10f1a,85,Male,"Cough, Loss of taste, Sore throat, Loss of smell",Positive,False,False,2023-05-08
+825dcda4-0419-4490-92dc-fb9353713680,76,Other,"Cough, Shortness of breath, Fatigue",Positive,False,True,2020-07-28
+9bd03b12-59f8-41be-8d67-4a503a6360d8,33,Female,Fever,Negative,True,False,2022-02-23
+99c2bce9-bce0-4817-aea1-06ef1c46c321,68,Female,"Fatigue, Sore throat, Loss of smell, Loss of taste",Negative,False,True,2023-09-18
+bb19f6d6-a810-4191-b318-49a5765033b2,90,Other,Sore throat,Negative,True,False,2020-06-24
+1e0d5336-d666-4fda-88f2-b448b9972deb,18,Male,Loss of taste,Negative,True,True,2023-08-25
+7ab847b7-b6a7-467d-a448-8e24c026830f,20,Female,Loss of smell,Negative,False,True,2021-02-25
+08121aa8-3614-41a0-8125-e85e25986f21,58,Female,"Fatigue, Cough, Loss of smell",Positive,True,True,2023-05-06
+fd1ba849-96b8-453f-b186-bb0d12aaed51,30,Male,Cough,Negative,True,True,2022-10-12
+be2a24bb-e434-4a6a-bfc5-fb7b21fdf77d,81,Female,"Fever, Cough",Negative,False,True,2021-08-06
+480f1add-1af9-4b3e-af67-47143f2738b8,66,Other,"Loss of taste, Cough, Shortness of breath, Fever",Negative,False,False,2022-12-05
+112d01d0-6c90-4738-8fb2-b306c8a589a8,92,Female,"Fatigue, Shortness of breath, Loss of taste, Sore throat",Positive,True,False,2020-04-10
+4d3f4501-12e4-44e1-988a-3f574083cad1,34,Female,"Fever, Cough, Loss of taste",Positive,False,False,2022-02-04
+a7af6ef4-3f98-4210-a10c-e2a4ae0a9350,30,Other,"Loss of smell, Fever",Negative,True,True,2020-02-11
+c7292000-7741-4a6b-acb3-dd6e86a4a1dd,55,Other,"Loss of taste, Sore throat",Negative,True,True,2021-11-20
+e8c65bdc-c046-4bf1-9a1d-0bf5c31ce87f,67,Other,"Loss of taste, Loss of smell, Shortness of breath, Fatigue",Positive,False,True,2023-10-23
+3e962bb7-436b-4f0b-afe1-73d31718c0c1,1,Other,"Sore throat, Loss of taste",Negative,True,True,2022-12-24
+72c636e6-391f-4d08-a42f-e92e853961e7,59,Female,"Cough, Sore throat, Fatigue",Positive,True,False,2022-08-24
+ca13ea82-59de-4408-b836-8b0c26d91975,41,Male,"Fever, Loss of smell",Negative,False,True,2023-01-03
+3453f826-8410-4466-b393-68a0c1409531,1,Female,"Fever, Shortness of breath",Positive,True,False,2022-04-13
+bdd820a4-2691-4187-808b-10f92a5b93ae,16,Other,"Fatigue, Sore throat, Shortness of breath",Negative,False,True,2023-10-14
+b3ee1e18-7a61-45de-b925-9c06bcb9a484,12,Other,"Shortness of breath, Cough, Fatigue",Negative,False,True,2021-04-16
+81dca541-dab3-4600-857c-3050dfd656ed,50,Other,"Sore throat, Loss of taste, Shortness of breath",Positive,True,True,2020-05-10
+0889e116-12fb-49cf-bfac-c0e23a6d6220,39,Female,"Loss of taste, Loss of smell",Negative,True,True,2022-02-18
+5045dcfc-0fe4-4472-92ee-03a7fcd94146,86,Female,Fatigue,Negative,False,True,2023-06-10
+97bb27be-7a74-4d9e-9fa4-eacde4eb53b8,28,Female,"Loss of taste, Fever",Positive,False,True,2021-11-12
+784f4ec5-b66a-4e3a-9ce3-ee8aac20ce18,64,Female,"Sore throat, Loss of taste, Shortness of breath",Negative,False,True,2020-03-17
+55a4ab73-5edb-4548-8090-3d730687c7bc,5,Female,"Sore throat, Fatigue, Cough, Shortness of breath",Positive,True,True,2020-08-26
+a8ce8e84-abfb-457a-a7aa-2b9f02307cdb,98,Female,"Loss of taste, Fever, Cough, Loss of smell",Positive,True,False,2023-08-31
+34a9215e-cdb2-4fa4-bb5b-d9275b8709d1,85,Female,"Shortness of breath, Fever",Negative,False,False,2022-05-12
+3b16e3c9-4cd0-4dc7-9645-135df9ba6515,37,Female,"Shortness of breath, Loss of taste",Positive,False,False,2021-06-14
+dfe5d153-37c6-48ef-a13f-16a77edeac6d,82,Other,"Cough, Fever",Negative,True,False,2020-06-24
+59295516-dc88-4c2d-bc98-6ecb82e067ad,31,Male,Shortness of breath,Positive,True,False,2020-01-06
+2aa1d65d-2ece-4eca-b7af-ba1c8de37464,56,Male,Cough,Negative,False,True,2021-01-24
+5b1f2a87-3f37-41a9-b800-c0d0a301410d,14,Other,"Fatigue, Loss of smell, Sore throat, Cough",Negative,True,False,2020-06-24
+ac598c6a-1f5f-4594-9ce9-68a873bb5aa0,35,Male,"Shortness of breath, Sore throat",Negative,False,False,2022-03-09
+b3e8aea4-fca9-4355-ba63-8ae30d74b6ac,76,Other,Fever,Positive,True,False,2022-08-09
+aee21943-2d18-4f6c-a71e-934b47b2ae64,70,Other,"Shortness of breath, Loss of taste, Fever, Fatigue",Negative,True,False,2021-02-07
+055b3ff7-35ad-4d71-ab8a-6e9cfb06790a,8,Other,"Fatigue, Cough, Shortness of breath",Negative,True,False,2022-07-25
+6e6dc27f-8b2d-4760-8b71-b69020baf60a,32,Male,Cough,Positive,False,True,2023-07-30
+4146d60b-7bb0-4e4c-a35d-37b7516b3fe0,66,Other,"Shortness of breath, Fever, Fatigue",Positive,True,False,2020-04-28
+84b734ff-7d43-487d-beac-313ce13d5842,44,Other,Loss of taste,Positive,False,False,2020-10-24
+d67ea297-4c00-4f76-bf48-513ca594d9c0,72,Male,"Fatigue, Sore throat",Positive,True,False,2022-08-02
+53a7182c-3aad-4353-a399-7b5e4cf5f078,31,Male,Shortness of breath,Negative,True,True,2020-07-06
+8f4a7be9-9f53-4646-b163-544303432b5e,62,Male,"Cough, Loss of smell",Positive,True,True,2023-07-07
+5e76af8e-e71c-4493-86f5-366baa5b97b5,51,Other,"Sore throat, Loss of smell, Fatigue",Positive,False,True,2020-05-05
+c14cc19e-394f-4d0e-bc73-7d3c7639d63f,41,Female,"Cough, Fever, Loss of smell",Positive,False,False,2021-07-07
+eb3103a0-fa7f-4f0a-9d0d-badab0b25f6e,38,Female,Loss of smell,Positive,False,True,2021-02-01
+2343b18a-46f4-42a4-b1be-5e8b1ab05fed,96,Female,"Loss of smell, Fatigue, Loss of taste",Positive,True,True,2020-09-06
+f1a518b7-f841-4282-b99f-374ebfaf2dbe,64,Male,"Fever, Shortness of breath, Loss of taste",Negative,True,True,2021-05-06
+a229f6d2-cd21-4274-8615-31559e7a04d6,64,Other,"Loss of taste, Sore throat, Cough, Loss of smell",Negative,True,False,2021-06-09
+89cf8e47-9018-443c-9b32-e258f7947e9a,44,Male,"Cough, Fatigue, Loss of taste, Fever",Positive,True,False,2022-02-16
+e6c1f596-23bd-4865-8cdf-7685b2b8a99e,28,Male,"Shortness of breath, Loss of smell, Cough",Negative,True,False,2022-04-01
+3ed8f594-8b86-41ea-ac13-f9071c7e32da,30,Female,Fatigue,Negative,False,False,2020-11-22
+fdfde5b5-5418-4453-a312-f0590cbad9b6,61,Female,"Loss of taste, Fatigue, Fever",Positive,True,False,2021-11-02
+036f2e5e-03f3-4238-98b3-7f4f21ef4d1f,96,Female,"Shortness of breath, Fever",Positive,False,True,2023-04-10
+51427efd-a76a-4b17-a3de-143ca7350145,78,Other,"Fever, Sore throat",Positive,False,False,2020-07-30
+acaa35d9-27cb-4f63-8a7a-796de73713c6,4,Other,Fatigue,Negative,True,False,2020-04-16
+3ee60ff7-a20c-4fe7-a934-435bcb3cd6b6,67,Female,"Fever, Shortness of breath, Loss of taste, Sore throat",Positive,False,False,2021-10-07
+3db30203-a1a1-49df-a7ba-2458e88d7931,5,Male,"Shortness of breath, Sore throat, Cough, Fatigue",Positive,False,False,2023-12-27
+9438cd03-b2a9-45b1-808b-27022bb82a9f,53,Male,"Cough, Loss of smell",Negative,True,True,2022-11-07
+73be8522-a2c9-43ee-a480-e382ebf45321,54,Male,"Fatigue, Loss of smell",Negative,True,True,2022-09-28
+c201c4b6-7c77-4498-be9d-312e1ae1a216,0,Female,"Sore throat, Cough, Fatigue, Loss of smell",Positive,False,True,2021-01-17
+59a29f9e-f996-4ca9-a8b1-14d63d03f30a,14,Female,"Loss of taste, Loss of smell, Cough",Negative,False,False,2023-07-13
+1385fbac-f05c-425f-86eb-db23fd4bd1dc,68,Female,"Fatigue, Loss of taste, Sore throat, Fever",Positive,True,False,2020-10-31
+67dd2781-604a-46ac-9db9-0ca316b459d3,86,Female,"Fatigue, Shortness of breath, Loss of smell, Sore throat",Negative,False,False,2023-01-14
+fe4a132f-3113-4281-9cc9-c4d7318147ca,94,Male,"Fever, Loss of smell",Positive,False,False,2021-08-15
+17249930-7666-41a7-a306-19e01561ed64,37,Female,Shortness of breath,Negative,False,False,2022-10-02
+0c1df8f9-fc7a-4041-8c36-0fbebf07acff,84,Female,Fever,Negative,False,True,2021-12-29
+3515a3b2-f1b9-414a-8253-95eee74ce9fe,90,Female,Sore throat,Positive,True,False,2021-04-24
+6f87b6a6-6db5-4448-996b-3fd26e523aa5,71,Female,"Fever, Fatigue, Sore throat, Shortness of breath",Positive,False,False,2020-05-26
+7e0a86c0-8904-4b9d-9522-e2eaa74dff89,55,Female,Cough,Negative,False,True,2023-10-25
+ab3e0028-8ce0-44fd-bb03-4cb1a69298c2,32,Female,"Loss of taste, Sore throat, Fatigue, Fever",Negative,False,True,2021-04-16
+643ca512-8e29-42b7-870b-6a84f39c2735,9,Female,"Fever, Cough, Sore throat",Negative,True,True,2022-03-25
+10d87c89-b3c8-4040-aefd-e2df54651b14,62,Female,"Sore throat, Loss of smell",Positive,True,True,2020-05-22
+8802c76e-8b16-4080-ba15-a5802c15371d,99,Female,"Fatigue, Loss of smell",Positive,False,True,2021-04-16
+c1cfef12-eece-44b5-b9e3-281678376202,91,Other,"Shortness of breath, Loss of taste, Cough",Positive,True,True,2021-04-20
+1d2f70f8-200d-471d-9474-f151b2c671e3,66,Other,Fatigue,Negative,True,True,2022-10-14
+7df62b8d-4bc0-475a-97cb-521a4ab1b735,71,Male,Cough,Positive,True,False,2020-09-24
+91d3eb10-b98e-476c-97c5-5cb602b6ad7c,8,Other,"Loss of smell, Loss of taste, Fatigue",Positive,True,False,2023-07-01
+02fcfe65-3a7e-44f9-b101-68ac1396603c,30,Other,"Loss of smell, Cough, Fever",Negative,False,True,2021-06-12
+7a53a9d0-3118-4492-8d67-b3a6ef32afa7,18,Other,"Sore throat, Fever, Loss of taste",Positive,True,True,2020-02-23
+489ea4c3-a517-4404-94e4-c15300b60cb5,37,Female,"Shortness of breath, Fever, Loss of taste",Negative,True,False,2023-09-28
+744a735a-0550-447c-ad2a-ea021dfb6bac,52,Male,"Fever, Shortness of breath, Loss of taste",Negative,True,True,2021-10-07
+c26e3e27-def8-4d6e-958e-9563c984c53a,92,Male,Fatigue,Negative,True,False,2022-03-02
+ede981e3-2209-4baa-9084-7b919c0a8aa5,83,Other,"Loss of taste, Sore throat, Loss of smell",Negative,True,False,2023-07-05
+70340ef3-648d-4cee-8a72-7bc5d391d528,8,Male,"Fever, Loss of taste",Positive,False,True,2021-12-15
+203a6f58-5079-4c4b-99d3-944d18ea3620,19,Other,"Loss of taste, Cough, Sore throat, Fever",Positive,False,False,2020-02-03
+006a59f3-ce0c-486f-81f1-69dcc5439e61,5,Female,Loss of taste,Positive,True,True,2020-10-24
+ee28e4e2-508e-483c-a7ed-3da7d38362cd,49,Female,"Loss of taste, Fever, Loss of smell, Sore throat",Positive,False,False,2020-11-19
+97bdb204-edff-43fb-8f41-764ed1602bb4,42,Female,"Cough, Fever",Positive,False,True,2020-05-03
+77b1e3c5-dcec-4b3f-948b-9c76652fe4df,84,Female,"Loss of smell, Cough, Fever, Shortness of breath",Positive,False,True,2022-06-12
+546ed7c4-19e2-48df-92dc-d4ff8727a135,7,Female,"Loss of taste, Sore throat",Positive,True,False,2020-11-25
+0aaa5965-fd8c-4ad6-82cd-ba03a97c96ca,5,Other,"Sore throat, Cough, Loss of smell",Negative,False,False,2020-10-27
+0db7abae-e665-4838-95fc-bece7c07a390,6,Male,"Loss of taste, Loss of smell",Positive,False,False,2021-10-14
+75845eec-c92b-4a66-aa74-546beb4833f2,97,Female,"Fatigue, Sore throat",Positive,True,False,2021-06-17
+a5c7c52e-c2dd-4561-b7a7-b8c98092baa1,26,Male,"Cough, Sore throat, Fever",Positive,True,False,2021-05-01
+6650b502-fe3a-4b8f-80e6-511f7a41269c,80,Male,Shortness of breath,Negative,True,False,2020-02-12
+580d7460-233d-43d8-a4af-8422c9d598de,33,Other,"Fever, Cough, Sore throat, Loss of taste",Negative,False,False,2023-07-27
+4e0fe361-c187-4cb2-849a-2af6a8b6cb64,17,Female,"Fever, Loss of taste, Fatigue, Cough",Positive,False,True,2021-04-15
+ad4da68a-8975-4956-8637-ea7df2e252be,61,Other,"Sore throat, Fatigue, Cough, Fever",Positive,True,False,2022-04-21
+68f773c2-c6c4-4659-a88e-19f06cfe42b4,76,Other,"Loss of smell, Shortness of breath",Positive,False,False,2023-03-08
+0e882fe7-a40c-4120-ad1e-91b25f59ed84,93,Other,Fever,Negative,True,True,2022-09-28
+9d67a000-2b59-4655-954e-a0b4f0d7cbea,34,Other,"Fatigue, Fever, Loss of taste",Positive,False,False,2020-01-08
+5c5ca3b1-a89b-4ddc-b42a-d87f38f264d9,67,Male,Loss of taste,Positive,False,False,2020-09-25
+c21f6b0e-814f-4893-b482-1c519bbc048c,14,Male,"Loss of taste, Shortness of breath, Loss of smell, Sore throat",Positive,False,True,2022-12-31
+ec6315e3-e69f-40c5-a18d-ddc712b9c866,12,Male,"Fatigue, Loss of taste, Sore throat, Shortness of breath",Positive,False,False,2023-06-17
+ff404dd8-bf58-4bda-92db-a2337fe660ab,19,Male,Shortness of breath,Positive,False,False,2020-02-02
+2d09234c-3d7d-4675-a12a-94f368d66555,80,Male,"Fatigue, Shortness of breath",Negative,False,True,2022-12-28
+5e2a611a-61fb-47de-89c7-018481b4ad64,30,Female,"Fever, Sore throat, Cough",Positive,False,False,2021-06-10
+428fceee-53d9-4e89-83b2-0b9df53a2e8f,28,Female,"Loss of taste, Shortness of breath, Cough",Negative,True,True,2020-10-19
+96cb3034-a35d-4b7c-a04a-6e71972a1131,87,Female,"Fever, Loss of smell",Positive,True,True,2023-02-19
+3f02e63b-85b7-4f69-8c25-748cbd16dab9,18,Other,"Cough, Sore throat, Fatigue, Loss of taste",Negative,True,True,2023-06-10
+5abbf114-8de6-4a41-b84d-881fa30c2144,41,Female,"Loss of taste, Sore throat, Fever, Loss of smell",Negative,True,True,2023-03-29
+d15ab5a0-c4ad-4974-8127-6e0556aa4f90,96,Other,"Loss of smell, Fever",Negative,True,False,2022-08-22
+556a357e-a5c9-4baa-b3fb-5a9799d030c4,24,Male,"Sore throat, Loss of taste",Negative,True,False,2020-11-29
+5daf9870-a1e3-4aa8-b3a1-63d6922223d5,42,Male,"Cough, Loss of taste, Shortness of breath, Sore throat",Positive,False,False,2022-12-23
+c674440e-07c3-4f3e-8e2f-6884727de01c,60,Male,"Fever, Shortness of breath, Loss of taste",Positive,False,True,2022-09-03
+16f0d865-9a63-4a0d-89c9-176bbdb1aadb,3,Female,"Fever, Cough, Loss of smell",Negative,False,False,2020-09-19
+3a74966d-f8ec-42b5-8654-7bfa4c1ed6aa,22,Male,"Shortness of breath, Loss of taste, Sore throat",Negative,False,False,2020-04-12
+b54cb964-c0a3-46a1-9185-35bb0e5f3fa8,70,Female,"Shortness of breath, Cough",Positive,False,False,2023-09-17
+1219b932-a812-471e-9f82-fb7a2b611d39,77,Female,"Sore throat, Fever",Negative,False,False,2023-03-29
+2e67bdbf-c5c8-44b4-90b4-fc6135953355,96,Female,Fatigue,Negative,False,False,2023-11-09
+9acc7b9d-9305-405b-8d52-29abc6c7d656,73,Male,"Fever, Shortness of breath, Cough, Sore throat",Negative,False,False,2020-07-07
+7b21a88b-5338-4a09-9c6b-de880e9dc82d,12,Female,"Cough, Loss of taste",Negative,True,True,2021-07-02
+f97a446f-b1b7-4e27-8d3c-54b506035253,30,Male,"Loss of taste, Cough",Negative,False,False,2021-01-11
+413d83e2-826c-4508-9b97-b34a33ae12e2,50,Male,"Cough, Loss of smell, Shortness of breath",Positive,True,False,2023-03-21
+e5349d9f-2de7-40b1-8129-4f0c5fb4c251,69,Female,"Cough, Sore throat, Loss of smell, Fever",Negative,False,False,2021-04-15
+f61dbc54-e403-46e3-b72c-528351d92fd3,41,Other,"Loss of taste, Cough",Positive,True,False,2022-10-21
+a827f198-e29f-4c43-9489-6c99f39ad4c6,75,Female,"Fatigue, Loss of smell, Loss of taste, Cough",Positive,False,True,2022-02-11
+f6a7a34a-e980-4181-88fb-dc0c577c649f,11,Male,"Loss of taste, Sore throat, Fatigue",Positive,False,False,2020-06-27
+8682c91a-68e3-41ae-b497-37dc2474d35d,97,Male,"Loss of taste, Fatigue",Positive,True,False,2022-04-10
+b3a1d50f-23bc-42b8-bd76-4ab6c1df03fc,54,Female,"Shortness of breath, Fatigue, Loss of taste",Negative,True,False,2021-04-01
+130127a4-b493-4a19-baaf-6b439f286298,61,Female,"Loss of smell, Fever, Loss of taste, Cough",Negative,True,True,2022-01-04
+0aafb610-0b17-4b14-833d-300a601c629b,59,Male,"Fatigue, Shortness of breath, Loss of smell, Fever",Positive,True,True,2020-07-05
+7b2bc9c5-ad42-408e-802f-527466b224af,58,Male,"Sore throat, Shortness of breath",Positive,False,True,2022-02-13
+fd7477c6-b019-49af-b4dc-96310572c861,57,Male,Fever,Negative,False,False,2022-04-06
+f2bd7bd7-92a3-4e6c-b6e1-ee51fb394336,14,Other,"Fatigue, Shortness of breath",Positive,True,True,2022-06-10
+fb6481d1-89d5-4970-a83f-b59c2d0694bb,44,Male,"Loss of smell, Cough, Fever",Positive,False,True,2022-06-16
+04e0f127-87ec-4441-a790-4265d2956ef9,87,Male,"Shortness of breath, Cough, Fever",Negative,True,True,2022-04-08
+4a0ef60b-d7bc-4e57-838b-c0d5d18b7fe6,67,Female,"Sore throat, Shortness of breath, Loss of smell",Negative,False,True,2020-02-15
+07e01c7b-f4ba-455c-8c11-d7dc9fb0a592,9,Male,Cough,Positive,False,True,2021-03-27
+1a0df08b-042d-405a-a8fe-4a5c742e52b6,4,Female,Loss of smell,Positive,True,False,2021-09-29
+6414ab3a-8241-4890-9540-02b68cd7d3c3,13,Other,"Sore throat, Fatigue, Loss of smell, Shortness of breath",Negative,False,True,2021-10-18
+81115928-f151-415d-8217-9bfed8e2b42d,48,Female,"Cough, Shortness of breath",Positive,False,False,2023-03-25
+d37bebb2-3004-4e15-aa29-5dcfabbe2fd8,66,Male,"Fever, Fatigue, Sore throat",Positive,True,False,2022-02-28
+b8db8f23-83f3-4827-abac-3521c4828dbd,95,Male,"Sore throat, Fatigue",Negative,True,True,2023-10-12
+6b4396ca-83d2-4550-9b30-c1c76da955a0,11,Male,"Loss of smell, Loss of taste, Sore throat, Shortness of breath",Positive,False,False,2020-10-08
+10c0c6d0-c1da-476d-8f8f-36d3eb006b39,56,Male,Loss of smell,Negative,True,True,2021-08-28
+8418f211-83c3-4559-ba52-039639cc9644,86,Female,"Fever, Sore throat, Loss of smell, Fatigue",Positive,True,True,2023-08-04
+8d3ac381-d1b6-43ee-a153-5208239db79a,71,Male,"Loss of smell, Sore throat",Negative,False,False,2021-12-12
+18a0e44a-d417-4087-9137-2a40d46d17f1,99,Female,"Shortness of breath, Cough, Loss of taste, Sore throat",Positive,False,True,2021-09-20
+f0174200-dc1c-4e57-b47d-4d14c8eaba3e,62,Female,"Cough, Loss of taste",Positive,True,True,2022-03-30
+a9a6e98a-1404-48eb-89e0-f01601b2ba60,31,Other,"Loss of taste, Fever, Loss of smell, Shortness of breath",Negative,True,False,2021-01-12
+81c3d7e9-aa0f-4978-bfca-8ba527d713c4,100,Other,Cough,Positive,True,False,2022-03-19
+7099f017-8fdd-42e5-baaf-ecb89319cc9d,61,Male,"Fatigue, Shortness of breath",Negative,True,True,2020-04-01
+32c833d3-57eb-4d2f-a692-9d45de53d7e0,25,Other,"Fever, Sore throat",Positive,False,False,2023-12-09
+b45dd3bc-3c9a-4def-859b-a86fc362f5ba,18,Female,"Loss of smell, Loss of taste, Shortness of breath, Sore throat",Negative,True,False,2022-05-06
+ea597b95-32f3-4779-9a10-0a8c7d280d14,85,Female,"Fatigue, Loss of taste",Negative,True,False,2023-01-01
+54b4fc61-c6e7-44f0-8525-133d9b155b53,41,Other,"Fatigue, Loss of smell, Sore throat, Shortness of breath",Negative,False,False,2023-10-27
+ee57647e-ed4a-414a-a0f1-397c0a1d1858,62,Female,"Loss of smell, Fever, Sore throat, Fatigue",Positive,False,True,2023-10-07
+90461e71-d267-4725-afe5-94abfe61519e,26,Male,"Sore throat, Shortness of breath",Negative,True,False,2023-07-09
+e8a3214a-094d-4116-bab3-7e86e254e2b6,88,Female,"Sore throat, Loss of smell",Negative,False,True,2021-06-11
+aaf2a89a-b8d1-4599-abb6-0cdd19702a33,20,Male,"Fever, Sore throat, Loss of smell, Loss of taste",Positive,False,False,2020-02-29
+945ae577-9aa3-4bae-b610-4580a6b98d9d,61,Female,"Fever, Loss of smell, Shortness of breath, Fatigue",Negative,True,False,2021-04-18
+c3248f71-558a-44b4-9081-f830c2884ede,33,Other,"Shortness of breath, Cough, Loss of taste, Fever",Positive,True,False,2022-04-15
+15f55e75-63da-4f89-b52a-e163a5c7a5a2,39,Female,"Shortness of breath, Fever, Loss of smell",Negative,True,True,2020-06-05
+82623012-fe75-47dd-8511-1d7cc92c9486,38,Male,Loss of taste,Positive,False,True,2023-05-16
+fdc5a264-6c8d-4402-8ebc-f161ef98147f,98,Female,Loss of smell,Positive,True,False,2023-02-11
+ad7b7fe3-a287-425c-a92c-cf342267d6e6,41,Male,"Shortness of breath, Sore throat, Loss of smell",Positive,False,True,2021-11-13
+b62a37ec-3ec8-4524-b1a5-af055eec7216,84,Female,"Loss of smell, Loss of taste, Shortness of breath",Negative,False,True,2022-11-30
+9aa2e612-6d17-464c-b4ab-6dccd8f04700,68,Female,"Loss of taste, Shortness of breath",Positive,False,False,2021-10-20
+958e8a2a-c5e5-47d4-abf2-d38c5ad60140,88,Other,Loss of smell,Positive,False,False,2020-10-17
+17e6b492-4884-4898-a70a-b63c6c884007,97,Other,"Fatigue, Cough",Positive,False,False,2022-10-14
+2b29a58d-ce19-4edf-a9e9-184b0d13bfc2,54,Other,Loss of smell,Positive,False,False,2021-08-29
+2d954e54-d8ba-48a7-a013-16a04099a61d,8,Female,"Loss of taste, Loss of smell, Cough",Negative,True,False,2022-09-11
+2451987e-3379-420e-a2d6-60ea3ff5d13f,26,Female,Shortness of breath,Negative,True,True,2020-10-30
+d4898306-11cc-44bc-92e8-fe101ff9038a,24,Female,"Fever, Fatigue",Negative,False,False,2022-07-24
+37dd895a-df0d-4025-b27d-059aed6dae86,46,Other,Loss of smell,Negative,False,True,2023-05-16
+7db55bb2-d016-4eb9-8394-b2927448f29a,7,Male,"Shortness of breath, Cough, Fever",Negative,True,True,2020-10-12
+19958d67-6dfd-4b67-9018-8ed0e4378835,5,Other,Loss of taste,Positive,True,False,2021-11-01
+ea2f5fd0-7878-4d75-9b5a-79505315278c,70,Other,"Cough, Loss of smell",Positive,True,True,2020-02-07
+d8d73b3b-deb8-4074-940a-2698aa1c186d,35,Male,"Loss of taste, Fever, Fatigue",Negative,True,False,2022-01-21
+cbebecad-1c16-4a6c-b8cc-7f5f7288c266,22,Other,"Cough, Shortness of breath, Loss of taste, Sore throat",Negative,False,True,2022-07-07
+20032574-8401-4f00-bd26-770a8cfebd4a,39,Female,"Shortness of breath, Fatigue",Positive,False,False,2022-03-23
+7381a5bd-11d9-4bd6-9448-149528823799,43,Other,"Shortness of breath, Fever, Cough, Loss of taste",Negative,False,False,2023-05-08
+0ec75f9c-3280-45fe-9389-a3bfb392e739,46,Other,Sore throat,Positive,False,False,2021-09-06
+8309bc48-c315-45f3-a809-7ba5e5d67833,65,Female,"Fever, Cough, Sore throat, Fatigue",Positive,True,False,2020-12-19
+d82c3e47-170b-49d6-a6d4-be644fe260b7,41,Other,Fatigue,Negative,True,True,2022-10-17
+100471bc-d379-4b4a-985f-2abcf564d689,48,Male,"Fever, Fatigue, Cough, Loss of smell",Positive,False,True,2021-05-15
+4210d8bf-4093-4829-9314-d883e9a11ce8,32,Other,"Fever, Fatigue",Negative,False,True,2022-09-18
+3d9be194-9539-4a02-9940-d660a0b836eb,69,Male,"Cough, Loss of taste, Fever",Positive,True,True,2022-12-08
+9839d0f7-c125-46a0-8959-327766e28d3a,35,Other,"Loss of smell, Sore throat",Negative,True,False,2021-11-29
+2a42044d-537e-4cb0-aff5-c4c172c8cbf2,92,Male,"Fever, Shortness of breath",Positive,False,True,2023-01-09
+587f2abe-bfba-4f86-8019-1e4f5ef1d3ea,17,Male,"Cough, Loss of taste, Loss of smell",Negative,True,True,2020-12-05
+ea494cda-08ce-4d80-be2b-d69a4c39a2f2,97,Other,"Loss of taste, Shortness of breath",Positive,False,False,2021-03-30
+81832feb-9020-46f3-96bb-4d0daa3c8ebe,57,Female,Shortness of breath,Negative,False,False,2021-05-09
+4063e374-8f36-4c65-94a4-3c479625027c,16,Female,"Cough, Loss of smell, Fever, Shortness of breath",Negative,True,False,2022-11-28
+f37df380-22e8-4bf4-a542-1fd07f4108b6,44,Male,Loss of taste,Positive,True,False,2020-10-23
+9f12f63c-d1e2-401b-a265-5334848949d4,29,Female,"Cough, Fatigue, Loss of taste, Fever",Positive,False,False,2021-08-29
+8ca2c225-9de8-40d1-b904-2a08f3a0468a,77,Other,"Cough, Fatigue, Loss of smell",Positive,True,True,2023-07-06
+cd2b4aac-0843-46fc-9e67-f47342105d94,26,Male,"Fatigue, Fever, Sore throat, Loss of taste",Positive,False,False,2020-02-15
+2e03de3c-fd53-4cd7-923e-ba750e172099,63,Male,"Fatigue, Loss of taste, Sore throat",Positive,False,True,2022-01-28
+dbf324d6-17df-441d-a7d6-b9ed68bb7a21,91,Female,"Shortness of breath, Sore throat, Fever",Negative,True,False,2023-11-27
+87dd112d-4a0c-46b4-929c-14cf7ed92d86,46,Female,"Cough, Loss of smell, Shortness of breath, Fatigue",Positive,True,True,2020-05-17
+ffe63323-84f8-4178-8833-c297d6d2ec50,35,Male,"Cough, Sore throat",Negative,True,True,2021-03-17
+9e8d11e8-35a5-401b-986e-ce2cf8f3721f,32,Female,"Shortness of breath, Sore throat",Positive,False,True,2020-06-10
+ab1506b7-1772-4e09-8cee-7025bed8efe9,53,Female,"Fever, Fatigue, Shortness of breath",Positive,False,True,2020-07-14
+dde32197-e8bb-47df-ad26-0b4762bce0fb,60,Other,"Loss of smell, Shortness of breath, Cough",Negative,True,False,2020-10-09
+c161c318-6409-4296-9180-713c20034c83,47,Female,"Sore throat, Fatigue",Negative,True,False,2023-03-20
+24263dc3-7485-466e-ba9a-8befea6944b3,40,Male,"Fatigue, Sore throat, Loss of taste, Shortness of breath",Positive,False,True,2022-11-29
+19b95a71-8adf-432c-af67-7840465971b0,56,Male,"Sore throat, Fatigue, Loss of smell",Positive,True,True,2023-06-05
+a01a7db7-028b-4085-a75e-c5aa04aac59c,7,Female,"Cough, Shortness of breath",Positive,True,True,2023-12-09
+4a4f4cc4-c3e4-4968-b83d-2c9b1259e14e,88,Other,"Loss of taste, Shortness of breath, Loss of smell, Cough",Positive,True,True,2022-08-09
+3c32f85b-8970-4819-90ad-cc5051c1193b,47,Female,"Fever, Cough, Fatigue, Sore throat",Negative,True,True,2023-09-11
+f24ab835-1a53-48e0-906e-6ac514326a5f,82,Female,"Fever, Cough",Positive,False,False,2021-02-24
+f657b3ed-c483-4d2a-bfc5-caf5e5e8d09e,47,Other,"Fever, Loss of smell, Cough, Fatigue",Negative,False,True,2022-01-22
+78408bc1-9494-4221-8201-12367dfb73ef,15,Male,"Sore throat, Fatigue",Positive,True,False,2023-07-30
+10b8e5e1-6b33-4737-9eef-d885b516f05a,22,Male,"Loss of taste, Fatigue",Negative,False,True,2021-05-07
+47813e01-b9a5-4c70-85b8-ef04b495eef2,9,Female,"Shortness of breath, Fever",Negative,True,False,2022-01-26
+c82b70cf-501b-48c6-85cd-75fa5c5df02b,2,Other,Fever,Positive,True,True,2022-05-14
+b8229d21-37f3-4f26-8cd6-b9a5387057f7,11,Female,"Shortness of breath, Fever",Negative,True,False,2021-04-18
+23487d1f-b2ae-480d-ac1f-51ba106395f3,33,Female,"Fever, Fatigue, Loss of smell",Negative,False,True,2020-09-05
+76423742-fbfe-4282-911e-b8a777a66459,96,Other,Fever,Negative,True,False,2021-03-28
+9a1f4848-652b-49bf-9438-f2684373eb34,42,Other,"Fatigue, Loss of smell, Cough",Negative,True,False,2023-06-27
+2ddaa9d1-4d97-4182-97dd-b00d8aeea301,3,Female,"Fatigue, Loss of taste, Fever",Negative,True,True,2020-05-06
+f9a97123-fa43-4d4e-ae7e-4fb033b4f01f,50,Male,Loss of smell,Negative,False,False,2020-09-18
+2f507bdb-1e5a-4498-8955-d92dcd63562c,47,Female,"Shortness of breath, Loss of taste",Negative,True,True,2020-11-27
+996e48c7-a541-4010-afe1-e91a0331081b,74,Male,"Sore throat, Loss of taste, Fever, Fatigue",Negative,True,False,2022-02-19
+a93e0265-ecaf-4f2c-9973-0066653bf154,40,Male,"Shortness of breath, Fatigue",Positive,False,False,2023-04-11
+6c80e8e3-87fd-410b-a8a1-ef01984e255d,75,Other,"Fatigue, Cough, Sore throat, Loss of smell",Negative,False,False,2020-04-21
+e749102e-d8d1-4244-a6ac-e9d97ed8a145,14,Female,"Cough, Fatigue, Fever",Negative,True,True,2022-06-16
+ca489679-994f-41db-9936-9ec777bc54b5,14,Male,"Loss of smell, Sore throat, Loss of taste, Shortness of breath",Positive,False,False,2021-04-08
+45a58391-0332-46bf-b0af-15bddc4af122,19,Male,"Sore throat, Loss of smell, Cough, Loss of taste",Negative,False,False,2023-09-17
+a4276b35-a9c6-4a2d-9954-24cf0ca51277,8,Male,"Loss of smell, Fatigue, Loss of taste, Shortness of breath",Positive,False,True,2021-05-17
+ff3ff66b-d087-4e3e-ba21-4429214b297d,71,Female,"Loss of taste, Sore throat",Negative,False,False,2020-09-27
+e0c92eb6-d112-4e3f-8dfa-35712aa2d6e0,100,Other,"Sore throat, Cough",Negative,True,False,2021-04-13
+44f00039-a882-4ec9-be76-c6ef88f9a01e,17,Female,"Loss of taste, Fever, Shortness of breath",Positive,True,False,2020-08-12
+4b9877ac-a366-4ab9-8041-9d9bc7c7d98b,66,Other,"Cough, Fatigue, Shortness of breath",Positive,True,True,2023-07-25
+1cb903ce-a460-4332-938f-54e4172f3ef5,86,Female,Loss of smell,Negative,False,False,2021-11-22
+c5af6544-13fc-45bf-8acb-e3fa99a31704,9,Male,Cough,Negative,True,False,2020-05-01
+9ed44ea3-5cf9-4346-b205-f315754a0ec9,44,Other,"Shortness of breath, Fatigue",Negative,True,False,2023-12-01
+deb435b4-2b79-4235-9f96-43e30b60befa,8,Female,"Loss of smell, Fever, Shortness of breath",Negative,True,False,2022-02-25
+045e2ec0-aa0f-4085-bf3c-5ab2aedc61b6,59,Female,"Fatigue, Loss of taste, Cough",Positive,True,True,2023-03-23
+893d061f-7d8e-475d-8b10-7304e144506f,78,Male,"Loss of smell, Fever",Negative,False,True,2020-05-18
+0f704bb3-2f9d-4156-acab-7cf191b0f9da,80,Female,"Loss of smell, Sore throat, Cough",Positive,False,False,2020-07-20
+31b9b124-2192-4eec-8592-cefb0c9ad8c2,43,Female,"Fever, Cough",Positive,False,False,2021-06-21
+c12906b8-21ea-4715-b2e6-6bb6ea69b23f,16,Female,Shortness of breath,Negative,True,False,2020-04-14
+3853c19c-f5e6-426d-9623-f457228175fd,62,Other,Loss of taste,Negative,True,True,2022-06-17
+aedaf3b7-8b08-4d55-96f6-54cebebe0b9f,18,Female,"Cough, Fatigue, Shortness of breath",Positive,False,False,2020-09-02
+9a5fae51-06cc-4e86-b9db-dbc02b05dc65,68,Female,"Loss of taste, Sore throat, Fever, Loss of smell",Positive,True,False,2023-10-06
+e56c11ec-828c-4c84-ab13-caf3b9d3d78f,96,Male,"Sore throat, Shortness of breath, Loss of smell",Negative,False,False,2020-03-17
+891f1b70-85d2-419a-88fd-7ae72e587816,57,Other,"Sore throat, Loss of taste, Shortness of breath",Negative,True,False,2021-08-16
+b98dd403-c36b-49d3-8f0a-f630018edc9a,15,Other,Shortness of breath,Positive,True,True,2020-01-19
+2525cb82-c7ba-4e3a-baf7-015e0b41957a,88,Other,"Loss of smell, Cough",Negative,False,True,2023-03-18
+b423737d-6d25-41ae-a65a-ad3896b152c4,30,Female,"Loss of taste, Cough, Fatigue",Positive,True,False,2022-09-06
+342d1b6c-64ba-4a7a-9cb5-cb4223f8c2ab,75,Female,"Sore throat, Loss of smell, Loss of taste, Shortness of breath",Negative,False,False,2020-10-13
+eec29f09-c92e-4a79-82aa-14f552af4dcb,48,Other,"Loss of smell, Cough",Negative,True,False,2022-01-14
+78364677-0974-4cd9-880f-d23e6ef05d25,17,Female,Shortness of breath,Positive,False,True,2023-02-03
+237944e3-5e0c-45d3-abbd-cfed6dc773f1,72,Female,Fever,Positive,False,True,2023-05-14
+48c8dcba-fe8c-4e5a-9ee1-9c66f7f96f55,82,Male,"Shortness of breath, Loss of smell, Sore throat, Fever",Negative,True,False,2023-03-03
+91842be1-39f7-466a-b0ae-313558deb7ee,75,Other,"Fever, Loss of smell, Loss of taste",Positive,True,False,2023-07-11
+63d63fff-c931-452b-b1fa-95400d63b558,56,Other,"Sore throat, Shortness of breath, Cough",Negative,True,True,2021-05-11
+ea219d67-94a2-4f2e-899f-215a8315f7b9,60,Male,"Fever, Loss of taste",Negative,False,False,2021-10-06
+875cff47-8d45-4fed-ba86-f161586aca51,41,Female,Cough,Positive,False,True,2023-04-30
+a23e35ac-86cd-4d5d-9b5b-51be10ff35c2,63,Male,"Cough, Shortness of breath",Positive,False,True,2022-10-25
+70186492-b985-4347-bb1d-20e55bc70255,57,Female,"Loss of taste, Cough, Fever",Negative,True,False,2020-09-08
+00c8b2a3-4fb2-4c65-bbd4-d9e6667f8727,13,Male,Fatigue,Negative,True,True,2021-07-26
+ddd06388-dc71-4677-a820-70d82444980a,18,Female,"Sore throat, Loss of taste",Negative,True,False,2023-09-19
+974534dd-dc1c-48a2-b1de-e4cc17ceeec1,75,Female,"Fatigue, Sore throat",Positive,False,True,2020-05-14
+df151dd6-083f-4123-b2dd-2cc971aa5591,26,Male,"Loss of taste, Shortness of breath, Fatigue",Negative,True,True,2022-09-10
+8c29effe-f091-4728-82b0-9f8560d87b39,82,Male,"Fatigue, Sore throat, Cough, Loss of smell",Positive,True,True,2023-09-27
+80843744-f963-49b2-9026-4f1587765055,21,Other,"Cough, Loss of taste",Positive,False,True,2022-08-23
+536ef751-5286-4199-b106-d3e58b112387,37,Other,Sore throat,Positive,True,True,2022-07-03
+3788fb6b-4b2e-4db6-920a-308c35f1c106,48,Male,"Loss of taste, Fever, Cough",Negative,True,False,2023-12-08
+14faa07f-7d03-4bbe-ac89-4c5748192486,23,Other,"Fatigue, Fever, Shortness of breath, Cough",Negative,False,True,2023-06-08
+9b5ac713-4c5a-4b2c-904c-a50e2599e628,31,Female,"Cough, Fever",Positive,True,True,2020-07-31
+162b1a30-3c38-4e11-825b-831286ca1ff6,78,Female,"Loss of smell, Shortness of breath, Cough, Fever",Negative,False,False,2020-02-26
+be46c100-4867-46ea-a75e-586ee92008b7,13,Male,"Fever, Shortness of breath, Loss of smell, Cough",Negative,True,True,2022-11-23
+93aad81f-cd75-4187-99cf-c95108514816,10,Male,"Fatigue, Fever",Negative,True,True,2022-04-28
+68861ce0-b73d-49b5-bb96-2172127ae57e,97,Other,"Cough, Loss of smell, Shortness of breath, Fatigue",Positive,True,True,2020-02-26
+16a3ab56-91b3-4eb2-b530-3c1caa5d67c5,10,Female,"Loss of taste, Fever, Shortness of breath",Negative,True,True,2023-10-13
+44fc3f5a-bf4d-4de2-9f72-667bc0d72ed8,22,Female,Fatigue,Negative,False,False,2023-03-19
+0aa4b34f-a6f8-4557-ad8d-d010272e5e8e,84,Other,"Sore throat, Loss of smell, Fever, Cough",Negative,True,False,2020-03-29
+ddd996f8-ed1a-4f60-bd3e-d639154644c4,62,Male,Loss of taste,Negative,True,True,2022-02-11
+150250b3-937c-4682-b300-2bbb174cf265,39,Other,"Loss of taste, Cough",Negative,True,False,2022-12-01
+844e5f7d-f430-47de-9df2-1b8214f8f09d,55,Female,"Fatigue, Fever",Positive,True,False,2022-12-03
+4c40a1af-630f-43dd-a4c4-e4c7d7d3b4a8,14,Female,Loss of taste,Positive,False,False,2021-10-20
+407c2f6c-215d-41d1-9148-b0c970787310,70,Other,"Loss of smell, Fever, Sore throat, Loss of taste",Negative,True,True,2023-02-03
+676bc7a4-e1c9-442b-9e2c-5394bc5e8020,39,Female,"Loss of smell, Shortness of breath",Negative,True,False,2020-08-20
+902e4b14-d836-4268-8e88-5030ca109a30,75,Other,"Cough, Fever, Fatigue, Sore throat",Negative,True,False,2023-12-24
+b9c2d3c8-56c4-4883-a927-773391194f6a,0,Female,"Fatigue, Fever, Cough, Loss of taste",Positive,False,True,2021-05-02
+77180372-d2f3-4d95-bb83-a66b182460ab,1,Female,"Fever, Loss of smell, Sore throat, Shortness of breath",Negative,False,False,2022-07-25
+e1ac8936-e783-40d8-9fc0-11e9390d5cb1,54,Female,Loss of smell,Negative,False,True,2020-04-08
+0d05865c-0268-4e1b-aae4-cfdb2e30bcbe,41,Female,"Fever, Cough, Fatigue, Loss of taste",Negative,False,True,2022-11-16
+1841f9ec-c48d-49a6-92dc-e88a622c2dc9,78,Other,"Cough, Loss of smell, Shortness of breath",Negative,True,False,2023-06-18
+df165a16-0da1-4085-baa8-155c9438559b,78,Other,Sore throat,Negative,False,False,2021-09-28
+567db9d3-e135-4263-9ed8-a3061d58e53b,9,Male,"Loss of taste, Loss of smell, Fatigue, Sore throat",Positive,False,False,2020-08-04
+5ac66f68-8fe2-41ea-975c-980e85bace0b,94,Other,Shortness of breath,Negative,False,False,2020-04-28
+90180a4d-9c54-449a-ab6b-8631334f22a6,74,Other,Cough,Negative,False,False,2021-05-29
+2dd9d95a-4a52-4dbc-9a2a-27017bc9e2f2,23,Male,"Fatigue, Cough, Sore throat",Negative,True,False,2021-10-03
+d1e16789-ce33-416a-b091-e8109c9a794d,23,Female,"Loss of smell, Loss of taste",Negative,False,True,2022-07-20
+f4247108-6ba0-474d-b6b2-0fb0cc0f0bbd,56,Male,Sore throat,Positive,True,False,2022-11-09
+34d5f12c-d2f6-4b7a-8aca-8fe8cff52a6e,20,Other,"Fever, Cough, Loss of smell",Negative,True,False,2021-11-05
+108fcdec-d341-4b52-a6eb-0998dca586be,89,Male,"Shortness of breath, Sore throat",Negative,False,False,2021-12-02
+0e47855f-72a5-4a23-b528-5d83b2c08b6e,12,Male,"Cough, Loss of taste, Sore throat",Negative,True,True,2020-06-05
+41436f01-ab9e-4341-8c23-179ea8c0fb6d,35,Other,"Sore throat, Loss of taste, Cough",Negative,False,False,2021-08-02
+ce058f78-c077-416a-b1b0-3c51dadb4d46,8,Male,"Loss of smell, Cough, Sore throat",Negative,True,True,2020-04-12
+9eb5dd62-47ec-470e-a02b-a9cc736d4c29,6,Male,Loss of taste,Negative,False,True,2023-04-15
+ba648671-321c-4c81-b0a2-12b3ffebc2dc,29,Female,Shortness of breath,Positive,True,True,2020-10-13
+92a373ef-3a6f-4e3e-a8a8-1e1e8012921d,99,Female,Loss of smell,Positive,True,False,2020-02-07
+c7ba7ef5-8247-4802-8387-9e756edb2cd5,22,Other,"Shortness of breath, Fatigue, Cough",Positive,False,False,2023-12-22
+122e21a6-60c2-44fc-9367-4f140f9bdd78,73,Other,Fever,Negative,True,True,2021-07-05
+a77e6c10-f551-4ca6-b56f-1f2bb4c2559b,14,Male,"Shortness of breath, Cough, Fever, Fatigue",Negative,True,False,2022-11-09
+8b15bf17-39ae-4a93-a9c4-b6e1173feadd,24,Female,Shortness of breath,Negative,False,False,2020-01-24
+8d390628-5dc0-4fe5-8a8f-bec3eb9866e1,91,Other,Loss of smell,Negative,False,True,2022-01-26
+0192e44c-e9a0-4160-b60f-16df775ae53d,59,Other,"Sore throat, Loss of smell, Fatigue",Negative,True,True,2022-03-10
+57092483-9461-4ea0-b10a-9965b57d1da8,48,Other,Shortness of breath,Negative,False,True,2021-02-06
+e91776fb-b680-4258-8440-c1e5702f9180,86,Female,Loss of taste,Negative,True,False,2020-03-08
+20a2f4c4-1ed9-4d66-b772-562da5adbf4d,86,Female,"Cough, Fatigue",Positive,True,False,2021-09-24
+17ae2ed7-6cac-44b4-82af-d8e79b1bedb0,59,Male,"Cough, Fatigue, Fever",Negative,True,True,2023-11-14
+0cd2e060-d9d0-4b38-b1f2-e0e2776fc55a,62,Male,"Shortness of breath, Cough",Positive,True,True,2022-01-15
+29505cd6-cfde-4350-9ccd-f5a273641de5,73,Other,Fever,Negative,True,False,2023-03-24
+93023cbd-72d9-4ce7-98b5-b72b8d046a36,70,Male,"Sore throat, Shortness of breath, Fever, Cough",Negative,True,True,2021-07-08
+8407b7ac-b08a-4030-91c6-5428a85c78aa,75,Male,"Shortness of breath, Cough, Loss of taste",Positive,False,False,2020-10-14
+3a164b68-a04f-4eb8-b032-a8101e448f77,93,Male,Loss of smell,Negative,True,False,2021-05-23
+0c58ea3a-fd04-4fb7-aca8-810d4b2d42c6,0,Male,"Loss of smell, Loss of taste, Sore throat, Fever",Positive,True,False,2021-09-15
+9889c6de-6d1f-48c0-9126-89a1f8fe4afb,33,Other,"Loss of smell, Cough",Negative,True,True,2020-04-15
+063134d6-e15c-4347-a4d5-6566bcf7b0ac,38,Female,"Fatigue, Cough, Shortness of breath, Loss of taste",Negative,False,True,2022-07-12
+5643eb10-fb87-49f1-a880-c99fb77c64bc,16,Female,"Cough, Loss of taste, Shortness of breath",Negative,True,False,2023-09-11
+2656e77b-a581-4c89-8984-e5b557ee6707,90,Other,Sore throat,Positive,True,False,2022-12-05
+f73e01e7-6ed9-46ae-8566-046917b0a7b0,37,Other,"Fever, Loss of taste",Negative,True,False,2020-01-03
+4af7b780-c525-4174-9d1e-0d98c4b292ff,28,Female,"Loss of smell, Fatigue, Cough",Positive,False,True,2023-03-31
+24ee7d98-ff37-4c1a-a05a-a4c2f5e53cf8,91,Other,"Fatigue, Loss of smell, Cough, Sore throat",Positive,False,True,2022-08-09
+d799c594-7753-4c31-8840-fc3539e18577,28,Male,Fever,Negative,True,False,2020-03-30
+94e6fba7-cee1-4a86-b5db-81dbd37ed4d4,86,Female,Fatigue,Negative,True,True,2022-05-09
+677fc492-059d-4dda-9d30-04d3ee9c8c6e,97,Male,"Shortness of breath, Loss of smell, Loss of taste",Positive,False,False,2020-11-18
+93b49d03-13ca-4117-be59-42991b4f9a4e,50,Other,"Fever, Loss of taste",Negative,True,True,2023-06-03
+70905cab-cb0b-4b3b-a53c-71b5965e9cc3,11,Male,"Cough, Sore throat",Negative,True,True,2022-03-18
+4371e0aa-9071-45db-9cd4-63f0fd92c23c,94,Male,"Loss of taste, Sore throat",Positive,True,False,2022-03-25
+813ee60f-41bd-4f7a-9365-8a792dd4ece7,45,Female,"Fatigue, Fever",Negative,False,False,2022-04-18
+1a8514f0-c426-4969-a86b-8ca587ec5cc7,41,Other,"Cough, Loss of smell",Negative,False,True,2023-07-06
+b55d7c9e-e975-4db1-90ec-9a0021664c85,23,Other,"Fatigue, Fever, Loss of smell",Negative,False,True,2022-11-02
+17e3ccc3-d190-44cf-a0ef-cdf2e78fd40e,42,Other,"Shortness of breath, Cough",Negative,False,True,2021-10-18
+825b9b39-15c2-47a0-959a-c03be03d1f18,18,Male,"Fever, Loss of taste, Sore throat, Shortness of breath",Positive,True,True,2021-07-08
+ea29f3b4-2643-417d-8571-1759ba853caf,69,Female,Fever,Negative,True,True,2021-12-18
+39f06da3-960d-4320-9f03-d6dfd142e2a5,69,Female,"Loss of smell, Fatigue",Negative,True,False,2020-03-31
+24b008c1-8d25-47af-9e06-300b3a8bcc61,13,Female,"Fatigue, Loss of smell, Fever, Loss of taste",Negative,False,True,2022-07-29
+b7e7a5b2-74ca-47b6-be6e-919d199bd34c,63,Female,"Shortness of breath, Sore throat, Fever, Loss of taste",Positive,False,True,2020-04-03
+669f69b7-289e-46bd-9e20-6e1fcd462144,42,Female,"Fever, Cough, Fatigue, Loss of taste",Negative,False,False,2020-09-20
+03a6c76c-c731-4681-a7ee-b0f7f9de8f0a,25,Other,"Shortness of breath, Fatigue, Sore throat",Negative,False,True,2020-09-10
+c699aff5-83a6-4b99-bed9-222e56d08517,2,Male,Shortness of breath,Negative,True,True,2020-06-29
+2e0fb5ac-92fd-490f-87e1-2cc008ecbfde,4,Male,"Shortness of breath, Loss of smell, Cough",Negative,False,False,2021-09-17
+202eed1c-6409-412e-a9b0-b6550d2e90c3,71,Male,"Loss of taste, Loss of smell",Positive,False,False,2021-06-17
+009166ba-7c3b-4464-a1af-e72b0ac18d40,5,Male,"Fever, Shortness of breath, Loss of smell, Cough",Positive,False,True,2023-07-21
+2152d6d9-c45c-497b-b3eb-cc19d15d7518,15,Female,"Fever, Loss of smell",Negative,False,False,2021-02-08
+d3487f13-1177-4e99-9547-3882c5666a9f,25,Male,"Loss of smell, Fever",Positive,False,True,2023-09-08
+351487a0-2ca7-4c76-97fa-e9a0cbd9aa08,68,Male,"Fever, Shortness of breath, Loss of taste",Positive,False,False,2021-01-12
+1d0c7b73-1ff2-469a-a2ed-ae150e50ac5d,54,Other,"Loss of taste, Fever, Shortness of breath, Cough",Positive,True,True,2022-03-27
+960a7c40-328a-447f-8697-4c75e96ab903,86,Female,"Cough, Fatigue",Negative,False,True,2022-08-10
+f4d84c1a-b547-4da5-8a3a-a7dbef84be8f,65,Other,"Fever, Loss of taste, Sore throat, Fatigue",Negative,False,False,2022-08-01
+77ece1bd-5e15-49ee-bbcb-cd9acb2ede64,85,Male,"Sore throat, Cough, Fatigue",Negative,True,True,2023-12-07
+fac1ba02-bbc6-4693-a09e-79dd6767ed82,28,Female,Shortness of breath,Positive,False,False,2020-01-23
+472dd658-ea18-4a27-8188-f16e16169855,40,Male,"Fever, Sore throat",Positive,False,True,2021-04-15
+239cfa94-978a-4ee5-b113-f2c2abe23b42,46,Male,"Shortness of breath, Fatigue, Loss of smell",Negative,False,True,2021-09-09
+7e4aa0a9-66a2-4f8e-80d7-760a3bf6c895,6,Male,"Loss of smell, Cough",Negative,True,True,2021-04-12
+55f8cbbd-0418-4642-b13d-b82e38c8f704,27,Female,"Loss of smell, Fever, Sore throat, Shortness of breath",Negative,False,False,2023-11-19
+50d4b9c4-8c38-4f86-bd63-9eb91b30123d,7,Female,"Shortness of breath, Fatigue",Negative,False,False,2022-12-22
+73b3449e-b70b-4441-af7c-27d60b103a67,34,Other,"Loss of smell, Fatigue",Positive,False,False,2021-05-10
+9ae77d3e-8359-4a59-bd26-fb0d8ad3307a,28,Female,Fatigue,Negative,False,False,2023-08-15
+6ae0b6c3-f315-4228-9c65-3fc0c857c098,98,Other,"Sore throat, Loss of taste, Fatigue, Cough",Positive,False,False,2022-10-07
+d2f0b000-4c6e-4013-a328-be0846836a96,79,Other,"Fever, Cough, Loss of taste",Negative,True,False,2022-01-19
+14114fe7-2fbc-45b5-8bfc-81a6cacbd819,8,Other,"Loss of smell, Cough",Negative,True,True,2020-12-05
+1e113c3c-2f29-4403-84c3-80ba71ed4eb5,14,Other,"Fever, Shortness of breath, Sore throat, Loss of smell",Positive,False,True,2021-11-04
+c53808ee-bc0c-4f65-b3b9-9822178a32da,42,Male,"Fatigue, Cough, Fever, Loss of taste",Negative,True,True,2021-03-27
+5b29eb3b-4762-479f-9ad1-794982717295,61,Female,"Fever, Fatigue",Negative,False,True,2022-03-15
+ff598095-4a0e-4e4d-ad66-17e9353321f0,39,Other,"Loss of smell, Fatigue",Positive,False,False,2022-08-09
+280197fd-5c98-4887-a8b9-705c1ccd7b7e,20,Other,Sore throat,Positive,False,True,2023-12-24
+66194862-16d0-480f-a7c1-4a26beddbe7e,75,Female,"Cough, Shortness of breath",Positive,True,True,2023-12-06
+26a01062-ef18-49e4-8111-76d4c2d89457,6,Female,"Fever, Shortness of breath",Positive,True,True,2021-02-19
+cff74d1d-2769-4249-98c1-935b28d08901,82,Male,Fatigue,Positive,False,False,2023-12-18
+05d8cb69-24bc-4258-8980-36c19074fa39,99,Female,"Fever, Loss of taste, Cough",Positive,False,True,2020-03-26
+739e7619-b8c8-4c3b-aca3-a1ecabc4a53a,51,Male,Sore throat,Positive,True,True,2023-06-19
+589e2601-54b1-45c7-a947-07e9293429d6,20,Female,Cough,Positive,True,False,2022-11-20
+e8038055-b306-4b3a-80b5-6f0afe9e73be,15,Male,"Fatigue, Cough, Sore throat",Negative,True,True,2022-04-02
+3b05c2cc-65fb-45f8-b87d-cb858737074a,41,Male,"Loss of smell, Loss of taste, Fatigue",Positive,True,True,2021-06-30
+2dcc3a36-4653-4635-b76c-e7b13567917b,31,Other,"Loss of taste, Fever, Cough",Positive,False,True,2023-11-10
+6fa71cd1-8d5a-410f-af52-754ca7a6aa84,38,Male,Shortness of breath,Positive,True,True,2021-11-28
+52b40d2f-69c5-49a5-80ce-1eef52274d7c,4,Female,"Loss of smell, Cough",Positive,True,False,2022-10-15
+5ffacb50-88a6-4721-aaef-1036fbbefd7b,83,Male,Sore throat,Negative,False,True,2021-12-30
+1095767d-6660-4125-8de6-b8c9048c903a,41,Other,"Fatigue, Shortness of breath, Loss of taste",Negative,False,False,2022-01-02
+e20a73e4-4c85-4e81-96cf-ac9942f59ec1,31,Other,"Sore throat, Loss of taste",Negative,False,True,2023-09-09
+445fba87-e4b3-4df0-b88e-16e08cf78d57,88,Female,"Loss of taste, Cough, Loss of smell",Positive,True,False,2020-03-06
+395a7a76-f31e-4848-9c4c-d99a00fd3399,31,Female,Sore throat,Positive,False,False,2023-10-16
+ce918fa6-8128-4b81-b556-9cc91833f506,5,Other,Loss of taste,Negative,False,True,2020-05-06
+d4ca09dc-5863-49ae-8379-54b24ba52699,74,Other,Loss of taste,Positive,True,True,2021-08-10
+0a027d56-09f0-4494-9018-80280096210d,75,Male,Sore throat,Positive,True,True,2023-09-11
+9b3e0d62-e003-4f4b-946a-997a40683c70,99,Other,"Cough, Sore throat, Loss of smell, Fatigue",Negative,True,False,2023-02-18
+4a9d8672-495c-4003-8be0-ae2db671b8a0,56,Male,"Sore throat, Cough, Loss of smell",Positive,True,True,2020-02-26
+1a72d2ee-579d-4605-8e26-7daf0de00ff4,52,Male,"Fever, Fatigue, Shortness of breath, Sore throat",Negative,False,True,2022-08-18
+8fa207a4-9271-4b8f-8a37-3ef035d84516,82,Male,"Sore throat, Shortness of breath, Loss of smell, Fatigue",Negative,False,True,2022-01-15
+9743232c-313f-4f5e-b68d-5322ec33317c,83,Other,Loss of taste,Negative,True,True,2023-09-22
+a57d32b8-a800-4852-859d-ff877df0e63f,5,Other,Loss of taste,Positive,False,True,2023-06-19
+dbc43fdc-338f-4d8c-82b4-1530eeb998f6,71,Female,Cough,Positive,False,False,2023-08-31
+cd40f862-f68c-4ec3-9541-d33cf0c2a695,75,Male,"Cough, Shortness of breath",Negative,True,False,2022-04-18
+e3523dda-5fbf-46ad-acae-aeedf0d9de49,73,Male,"Cough, Loss of smell, Sore throat",Negative,True,False,2022-07-09
+13e915ba-5ff4-4747-a178-a3575408d3ce,83,Female,Loss of smell,Negative,True,True,2021-01-11
+b9d4e716-bb77-40c3-9034-3493ba15a71b,72,Female,"Fatigue, Sore throat, Loss of smell",Negative,False,False,2023-09-03
+bf223558-aac1-45b8-96a6-d72e9b1e567a,97,Female,Loss of taste,Negative,True,True,2022-12-22
+69d62aa8-9a64-48cf-b36d-90e6d63ffb87,25,Male,Cough,Positive,True,True,2021-01-08
+34816164-3aec-4a09-b243-265656295682,48,Other,Fever,Negative,True,True,2021-08-30
+7711d9a8-c10f-44a7-bc65-c58937539943,33,Male,"Cough, Loss of smell, Fever",Positive,True,False,2022-02-22
+283c7030-ca82-4b97-8a9c-fe61e6da16a2,61,Male,"Fatigue, Cough, Sore throat, Loss of taste",Negative,False,False,2020-01-31
+150a6ff9-d33a-445a-8db1-34782d50fc21,92,Female,Loss of smell,Positive,False,False,2020-08-27
+5e8ef963-284e-4502-84a9-ed7e79cfc23a,43,Female,"Loss of taste, Cough, Sore throat",Negative,True,False,2021-05-06
+bf79d85b-7420-4f2f-a1e8-1c34cc4b17bd,71,Male,"Fever, Loss of taste, Cough, Loss of smell",Negative,True,False,2020-09-16
+ddf063f7-9efb-4c71-aff8-5f9ff52f15bd,66,Other,Loss of taste,Positive,False,False,2021-12-19
+2da8e98c-4820-44e4-85fc-2509833d2bdc,5,Male,"Loss of smell, Cough, Loss of taste",Positive,False,True,2022-07-28
+d8d874d3-4058-4a1c-aa6b-6bcbd3d9c681,30,Male,"Shortness of breath, Fever, Sore throat, Fatigue",Negative,False,True,2023-07-19
+c85e246b-3898-40a3-98fb-4796965b65fb,85,Male,"Cough, Fever, Sore throat, Loss of smell",Positive,False,False,2021-12-08
+79a71f24-ac1a-4294-8f02-7d76fa49c07e,1,Female,Fatigue,Positive,False,True,2022-06-30
